@@ -1,0 +1,91 @@
+,Event,Category,Date,Team,Swimmer,Time
+0, Event 1  Women 200 Yard Medley Relay,NCAA,2023-03-15,Virginia,"G Walsh, A Walsh, A Cuomo, K Douglass",1900-01-01 00:01:31.510
+1, Event 1  Women 200 Yard Medley Relay,Meet,2023-03-15,Virginia,"G Walsh, A Walsh, A Cuomo, K Douglass",1900-01-01 00:01:31.510
+2, Event 1  Women 200 Yard Medley Relay,American,2023-03-15,Virginia,"G Walsh, A Walsh, A Cuomo, K Douglass",1900-01-01 00:01:31.510
+3, Event 1  Women 200 Yard Medley Relay,US Open,2023-03-15,Virginia,"G Walsh, A Walsh, A Cuomo, K Douglass",1900-01-01 00:01:31.510
+4, Event 1  Women 200 Yard Medley Relay,Pool,2023-03-15,Virginia,"G Walsh, A Walsh, A Cuomo, K Douglass",1900-01-01 00:01:31.510
+5, Event 2  Women 800 Yard Freestyle Relay,NCAA,2017-03-15,Stanford,"S Manuel, L Neal, E Eastin, K Ledecky",1900-01-01 00:06:45.910
+6, Event 2  Women 800 Yard Freestyle Relay,Meet,2017-03-15,Stanford,"S Manuel, L Neal, E Eastin, K Ledecky",1900-01-01 00:06:45.910
+7, Event 2  Women 800 Yard Freestyle Relay,American,2017-03-15,Stanford,"S Manuel, L Neal, E Eastin, K Ledecky",1900-01-01 00:06:45.910
+8, Event 2  Women 800 Yard Freestyle Relay,US Open,2017-03-15,Stanford,"S Manuel, L Neal, E Eastin, K Ledecky",1900-01-01 00:06:45.910
+9, Event 2  Women 800 Yard Freestyle Relay,Pool,2023-03-15,Virginia,"A Canny, A Walsh, R Tiltmann, M Nelson",1900-01-01 00:06:49.820
+10, Event 3  Women 500 Yard Freestyle,NCAA,2017-03-16,Stanford,Katie Ledecky,1900-01-01 00:04:24.060
+11, Event 3  Women 500 Yard Freestyle,Meet,2017-03-16,Stanford,Katie Ledecky,1900-01-01 00:04:24.060
+12, Event 3  Women 500 Yard Freestyle,American,2017-03-16,Stanford,Katie Ledecky,1900-01-01 00:04:24.060
+13, Event 3  Women 500 Yard Freestyle,US Open,2017-03-16,Stanford,Katie Ledecky,1900-01-01 00:04:24.060
+14, Event 3  Women 500 Yard Freestyle,Pool,2020-11-19,Virginia,Paige Madden,1900-01-01 00:04:33.090
+20, Event 4  Women 200 Yard IM,NCAA,2023-03-16,Virginia,Kate Douglass,1900-01-01 00:01:48.370
+21, Event 4  Women 200 Yard IM,Meet,2023-03-16,Virginia,Kate Douglass,1900-01-01 00:01:48.370
+22, Event 4  Women 200 Yard IM,American,2023-03-16,Virginia,Kate Douglass,1900-01-01 00:01:48.370
+23, Event 4  Women 200 Yard IM,US Open,2023-03-16,Virginia,Kate Douglass,1900-01-01 00:01:48.370
+24, Event 4  Women 200 Yard IM,Pool,2023-03-16,Virginia,Kate Douglass,1900-01-01 00:01:48.370
+30, Event 5  Women 50 Yard Freestyle,NCAA,2023-03-16,LSU,Maggie MacNeil,1900-01-01 00:00:20.790
+31, Event 5  Women 50 Yard Freestyle,Meet,2023-03-16,LSU,Maggie MacNeil,1900-01-01 00:00:20.790
+32, Event 5  Women 50 Yard Freestyle,American,2023-02-15,Virginia,Gretchen Walsh,1900-01-01 00:00:20.830
+33, Event 5  Women 50 Yard Freestyle,US Open,2023-03-16,LSU,Maggie MacNeil,1900-01-01 00:00:20.790
+34, Event 5  Women 50 Yard Freestyle,Pool,2023-03-16,LSU,Maggie MacNeil,1900-01-01 00:00:20.790
+40, Event 7  Women 200 Yard Freestyle Relay,NCAA,2023-02-15,Virginia,"K Douglass, G Walsh, A Cuomo, A Walsh",1900-01-01 00:01:23.870
+41, Event 7  Women 200 Yard Freestyle Relay,Meet,2023-03-16,Virginia,"K Douglass, G Walsh, A Cuomo, M Parker",1900-01-01 00:01:24.510
+42, Event 7  Women 200 Yard Freestyle Relay,American,2023-02-15,Virginia,"K Douglass, G Walsh, A Cuomo, A Walsh",1900-01-01 00:01:23.870
+43, Event 7  Women 200 Yard Freestyle Relay,US Open,2023-02-15,Virginia,"K Douglass, G Walsh, A Cuomo, A Walsh",1900-01-01 00:01:23.870
+44, Event 7  Women 200 Yard Freestyle Relay,Pool,2023-03-16,Virginia,"K Douglass, G Walsh, A Cuomo, M Parker",1900-01-01 00:01:24.510
+45, Event 8  Women 400 Yard IM,NCAA,2018-03-16,Stanford,Ella Eastin,1900-01-01 00:03:54.600
+46, Event 8  Women 400 Yard IM,Meet,2018-03-16,Stanford,Ella Eastin,1900-01-01 00:03:54.600
+47, Event 8  Women 400 Yard IM,American,2018-03-16,Stanford,Ella Eastin,1900-01-01 00:03:54.600
+48, Event 8  Women 400 Yard IM,US Open,2018-03-16,Stanford,Ella Eastin,1900-01-01 00:03:54.600
+49, Event 8  Women 400 Yard IM,Pool,2023-03-17,Virginia,Alex Walsh,1900-01-01 00:03:57.240
+55, Event 9  Women 100 Yard Butterfly,NCAA,2023-03-17,Virginia,Kate Douglass,1900-01-01 00:00:48.460
+56, Event 9  Women 100 Yard Butterfly,Meet,2023-03-17,Virginia,Kate Douglass,1900-01-01 00:00:48.460
+57, Event 9  Women 100 Yard Butterfly,American,2023-03-17,Virginia,Kate Douglass,1900-01-01 00:00:48.460
+58, Event 9  Women 100 Yard Butterfly,US Open,2023-03-17,Virginia,Kate Douglass,1900-01-01 00:00:48.460
+59, Event 9  Women 100 Yard Butterfly,Pool,2023-03-17,Virginia,Kate Douglass,1900-01-01 00:00:48.460
+65, Event 10  Women 200 Yard Freestyle,NCAA,2015-03-20,California,Missy Franklin,1900-01-01 00:01:39.100
+66, Event 10  Women 200 Yard Freestyle,Meet,2015-03-20,California,Missy Franklin,1900-01-01 00:01:39.100
+67, Event 10  Women 200 Yard Freestyle,American,2015-03-20,California,Missy Franklin,1900-01-01 00:01:39.100
+68, Event 10  Women 200 Yard Freestyle,US Open,2015-03-20,California,Missy Franklin,1900-01-01 00:01:39.100
+69, Event 10  Women 200 Yard Freestyle,Pool,2013-12-06,California,Missy Franklin,1900-01-01 00:01:41.400
+75, Event 11  Women 100 Yard Breaststroke,NCAA,2019-03-22,Indiana,Lilly King,1900-01-01 00:00:55.730
+76, Event 11  Women 100 Yard Breaststroke,Meet,2019-03-22,Indiana,Lilly King,1900-01-01 00:00:55.730
+77, Event 11  Women 100 Yard Breaststroke,American,2019-03-22,Indiana,Lilly King,1900-01-01 00:00:55.730
+78, Event 11  Women 100 Yard Breaststroke,US Open,2019-03-22,Indiana,Lilly King,1900-01-01 00:00:55.730
+79, Event 11  Women 100 Yard Breaststroke,Pool,2017-12-01,TNAQ,Molly Hannis,1900-01-01 00:00:56.640
+85, Event 12  Women 100 Yard Backstroke,NCAA,2023-03-17,Virginia,Gretchen Walsh,1900-01-01 00:00:48.260
+86, Event 12  Women 100 Yard Backstroke,Meet,2023-03-17,Virginia,Gretchen Walsh,1900-01-01 00:00:48.260
+87, Event 12  Women 100 Yard Backstroke,American,2023-03-17,Virginia,Gretchen Walsh,1900-01-01 00:00:48.260
+88, Event 12  Women 100 Yard Backstroke,US Open,2023-03-17,Virginia,Gretchen Walsh,1900-01-01 00:00:48.260
+89, Event 12  Women 100 Yard Backstroke,Pool,2023-03-17,Virginia,Gretchen Walsh,1900-01-01 00:00:48.260
+95, Event 14  Women 400 Yard Medley Relay,NCAA,2023-02-17,Virginia,"G Walsh, A Walsh, K Douglass, A Canny",1900-01-01 00:03:21.800
+96, Event 14  Women 400 Yard Medley Relay,Meet,2022-03-18,Virginia,"G Walsh, A Wenger, A Walsh, K Douglass",1900-01-01 00:03:22.340
+97, Event 14  Women 400 Yard Medley Relay,American,2022-02-18,Virginia,"G Walsh, A Wenger, A Walsh, K Douglass",1900-01-01 00:03:22.340
+98, Event 14  Women 400 Yard Medley Relay,US Open,2022-02-18,Virginia,"G Walsh, A Wenger, A Walsh, K Douglass",1900-01-01 00:03:22.340
+99, Event 14  Women 400 Yard Medley Relay,Pool,2023-03-17,Virginia,"G Walsh, A Walsh, K Douglass, A Canny",1900-01-01 00:03:22.390
+100, Event 15  Women 1650 Yard Freestyle,NCAA,2017-11-18,Stanford,Katie Ledecky,1900-01-01 00:15:03.310
+101, Event 15  Women 1650 Yard Freestyle,Meet,2017-03-17,Stanford,Katie Ledecky,1900-01-01 00:15:07.700
+102, Event 15  Women 1650 Yard Freestyle,American,2023-03-12,A3/12/2023,Katie Ledecky,1900-01-01 00:15:01.410
+103, Event 15  Women 1650 Yard Freestyle,US Open,2023-03-12,O3/12/2023,Katie Ledecky,1900-01-01 00:15:01.410
+104, Event 15  Women 1650 Yard Freestyle,Pool,2013-12-07,P12/7/2013,Katie Ledecky,1900-01-01 00:15:15.170
+105, Event 16  Women 200 Yard Backstroke,NCAA,2019-03-23,Wisconsin,Beata Nelson,1900-01-01 00:01:47.240
+106, Event 16  Women 200 Yard Backstroke,Meet,2019-03-23,Wisconsin,Beata Nelson,1900-01-01 00:01:47.240
+107, Event 16  Women 200 Yard Backstroke,American,2019-03-10,Riptide,Regan Smith,1900-01-01 00:01:47.160
+108, Event 16  Women 200 Yard Backstroke,US Open,2019-03-10,Riptide,Regan Smith,1900-01-01 00:01:47.160
+109, Event 16  Women 200 Yard Backstroke,Pool,2023-03-18,Stanford,Claire Curzan,1900-01-01 00:01:47.640
+115, Event 17  Women 100 Yard Freestyle,NCAA,2017-03-18,Stanford,Simone Manuel,1900-01-01 00:00:45.560
+116, Event 17  Women 100 Yard Freestyle,Meet,2017-03-18,Stanford,Simone Manuel,1900-01-01 00:00:45.560
+117, Event 17  Women 100 Yard Freestyle,American,2017-03-18,Stanford,Simone Manuel,1900-01-01 00:00:45.560
+118, Event 17  Women 100 Yard Freestyle,US Open,2017-03-18,Stanford,Simone Manuel,1900-01-01 00:00:45.560
+119, Event 17  Women 100 Yard Freestyle,Pool,2023-03-18,Virginia,Gretchen Walsh,1900-01-01 00:00:45.610
+125, Event 18  Women 200 Yard Breaststroke,NCAA,2023-03-18,Virginia,Kate Douglass,1900-01-01 00:02:01.290
+126, Event 18  Women 200 Yard Breaststroke,Meet,2023-03-18,Virginia,Kate Douglass,1900-01-01 00:02:01.290
+127, Event 18  Women 200 Yard Breaststroke,American,2023-03-18,Virginia,Kate Douglass,1900-01-01 00:02:01.290
+128, Event 18  Women 200 Yard Breaststroke,US Open,2023-03-18,Virginia,Kate Douglass,1900-01-01 00:02:01.290
+129, Event 18  Women 200 Yard Breaststroke,Pool,2023-03-18,Virginia,Kate Douglass,1900-01-01 00:02:01.290
+135, Event 19  Women 200 Yard Butterfly,NCAA,2018-02-24,Stanford,Ella Eastin,1900-01-01 00:01:49.510
+136, Event 19  Women 200 Yard Butterfly,Meet,2023-03-18,Texas,Emma Sticklen,1900-01-01 00:01:49.950
+137, Event 19  Women 200 Yard Butterfly,American,2018-02-24,Stanford,Ella Eastin,1900-01-01 00:01:49.510
+138, Event 19  Women 200 Yard Butterfly,US Open,2018-02-24,Stanford,Ella Eastin,1900-01-01 00:01:49.510
+139, Event 19  Women 200 Yard Butterfly,Pool,2023-03-18,Texas,Emma Sticklen,1900-01-01 00:01:49.950
+145, Event 21  Women 400 Yard Freestyle Relay,NCAA,2023-02-18,Virginia,"G Walsh, K Douglass, L Cuomo, A Walsh",1900-01-01 00:03:06.830
+146, Event 21  Women 400 Yard Freestyle Relay,Meet,2022-03-19,Virginia,"K Douglass, A Walsh, R Tiltmann, G Walsh",1900-01-01 00:03:06.910
+147, Event 21  Women 400 Yard Freestyle Relay,American,2022-03-19,Virginia,"K Douglass, A Walsh, R Tiltmann, G Walsh",1900-01-01 00:03:06.910
+148, Event 21  Women 400 Yard Freestyle Relay,US Open,2022-03-19,Virginia,"K Douglass, A Walsh, R Tiltmann, G Walsh",1900-01-01 00:03:06.910
+149, Event 21  Women 400 Yard Freestyle Relay,Pool,2022-02-19,Alabama,"D Petkova, M Scott, K Antoniou, C Dupre",1900-01-01 00:03:10.360

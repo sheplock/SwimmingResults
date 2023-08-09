@@ -1,0 +1,915 @@
+,Event,Category,Name1,Year1,Name2,Year2,Name3,Year3,Name4,Year4,School,QualifyingTime,Time,Place,Points
+0, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Stokowski, Kacper",SR,"Hunter, Mason",5Y,"Korstanje, Nyls",SR,"Curtiss, David",SO,NC State,1:22.25,1:20.67,1,40
+1, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Dolan, Jack",SR,"Marchand, Leon",SO,"McCusker, Max",5Y,"Kulow, Jonny",FR,Arizona St,1:21.69,1:21.07,2,34
+2, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Chaney, Adam",JR,"Savickas, Aleksas",FR,"Friese, Eric",SR,"Liendo, Josh",FR,Florida,1:21.73,1:21.14,3,32
+3, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Seeliger, Bjorn",JR,"Bell, Liam",SR,"Rose, Dare",JR,"Alexy, Jack",SO,California,1:22.84,1:21.24,4,30
+4, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Burns, Brendan",SR,"Mathias, Van",5Y,"Frankel, Tomer",JR,"Wight, Gavin",JR,Indiana,1:23.52,1:21.52,5,28
+5, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Kammann, Bjoern",SO,"Houlie, Michael",5Y,"Crooks, Jordan",SO,"Santos, Guilherme",FR,Tennessee,1:21.43,1:21.59,6,26
+6, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Lowe, Dalton",JR,"Petrashov, Denis",SR,"Elaraby, Abdelrahman",SR,"Eastman, Michael",5Y,Louisville,1:23.59,1:22.43,7,24
+7, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Brownstead, Matt",JR,"Nichols, Noah",JR,"Edwards, Max",SR,"Lamb, August",SR,Virginia,1:23.03,1:22.51,8,22
+8, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Stoffle, Aidan",SR,"Mikuta, Reid",JR,"Stoffle, Nate",SO,"Makinen, Kalle",FR,Auburn,1:22.98,1:22.67,9,18
+9, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"MacAlister, Leon",SR,"Polonsky, Ron",SO,"Minakov, Andrei",JR,"Gu, Rafael",FR,Stanford,1:24.00,1:22.69,10,14
+10, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Menke, Matt",SR,"Maas, Derek",SR,"Miceli, Mateo",SO,"Korstanje, Tim",FR,Alabama,1:23.72,1:22.70,11,12
+11, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Foster, Carson",JR,"Chan, Will",5Y,"Corbeau, Caspar",SR,"Krueger, Danny",5Y,Texas,1:23.53,1:22.94,12,10
+12, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Dunham, Bradley",SR,"Pitshugin, Kris",FR,"Ng, Wesley",JR,"Downing, Dillon",SR,Georgia,1:23.01,1:22.98,13,8
+13, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Gogulski, Ethan",SR,"Puente Bustamante, Andres",SR,"Foote, Connor",FR,"Bratanov, Koko",SR,Texas A&M,1:23.24,1:23.03,14,6
+14, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Jekel, Wes",SR,"Myhre, Will",SR,"Bensch, Constantin",SR,"Wiegand, Ben",SO,Wisconsin,1:23.92,1:23.09,15,4
+15, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Quach, Alex",SO,"Helmuth, Karl",SO,"Ward, James",SR,"Gaziev, Ruslan",JR,Ohio St,1:23.03,1:23.34,16,2
+16, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Janton, Tommy",FR,"Faikish, Sean",JR,"Wilburn, Cason",SR,"Guiliano, Chris",SO,Notre Dame,1:24.22,1:23.35,17,0
+17, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Davis, Wyatt",JR,"Fitzpatrick, Brendan",SO,"Cohen Groumi, Gal",SO,"Szabados, Bence",JR,Michigan,1:23.07,1:23.35,17,0
+18, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Stowe, Casey",JR,"McHugh, Max",5Y,"Neverman, Kaiser",JR,"Farrar, Lucas",JR,Minnesota,1:24.21,1:23.43,19,0
+19, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Radziszewski, Krzysztof",SO,"Van Der Laan, Cooper",SR,"Goraj, Marcin",JR,"Crisci, Flynn",SR,Pittsburgh,1:23.98,1:23.89,20,0
+20, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Grant, Will",JR,"Simpson, Jared",SR,"Gures, Umitcan",SR,"Linnihan, Ryan",SR,Harvard,1:23.79,1:23.97,21,0
+21, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Storms, Eric",5Y,"Patton, Ben",SR,"Secchi, Clement",5Y,"Dahlgren, Jack",5Y,Missouri,1:23.28,DQ,---,0
+22, Event 1  Men 200 Yard Medley Relay,Timed Final Relay,"Webb, Forest",SR,"Pouch, AJ",SR,"Gentry, Landon",FR,"Hayon, Will",FR,Virginia Tech,1:24.21,DQ,---,0
+23, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Hobson, Luke",SO,"Carrozza, Coby",JR,"Larson, Peter",SR,"Foster, Carson",JR,Texas,6:08.79,6:03.42,1,40
+24, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"House, Grant",5Y,"Sammon, Patrick",SO,"Hill, Julian",SR,"Marchand, Leon",SO,Arizona St,6:06.30,6:05.08,2,34
+25, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Jett, Gabriel",SO,"Henveaux, Lucas",5Y,"Callan, Patrick",5Y,"Lasco, Destin",JR,California,6:09.65,6:06.41,3,32
+26, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Miroslaw, Rafael",SO,"Frankel, Tomer",JR,"Burns, Brendan",SR,"Mathias, Van",5Y,Indiana,6:10.80,6:07.97,4,30
+27, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"McDuff, Macguire",SO,"Mitchell, Jake",JR,"Mestre, Alfonso",SR,"Smith, Julian",SO,Florida,6:08.64,6:08.79,5,28
+28, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Miller, Luke",JR,"Piszczorowicz, Bartosz",SR,"Bowers, Noah",SR,"Tapp, Hunter",SR,NC State,6:10.65,6:09.38,6,26
+29, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Minakov, Andrei",JR,"Polonsky, Ron",SO,"Maurer, Luke",JR,"Forst, Preston",JR,Stanford,6:11.08,6:11.49,7,24
+30, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Bonson, Michael",JR,"Husband, Ryan",JR,"Mathias, Mason",SO,"Schmidt, Danny",FR,Auburn,6:12.39,6:11.64,8,22
+31, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Sartori, Murilo",SO,"Loktev, Denis",SO,"Brooks, Guy",FR,"Eastman, Michael",5Y,Louisville,6:11.26,6:12.25,9,18
+32, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Hawke, Charlie",SO,"Alves, Kaique",SO,"Auerbach, Cam",SR,"Piotrowski, Kacper",JR,Alabama,6:12.46,6:12.66,10,14
+33, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Dunham, Bradley",SR,"Magahey, Jake",JR,"Hils, Zach",SR,"Norton, Mitchell",SO,Georgia,6:14.05,6:12.69,11,12
+34, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Guiliano, Chris",SO,"Hoagland, Jack",SR,"Wilburn, Cason",SR,"DeLong, Alec",SR,Notre Dame,6:16.29,6:14.39,12,10
+35, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Dominguez Calonge, Luis",SO,"Ramadan, Youssef",JR,"Coll Marti, Carles",JR,"Garcia, Nicolas",SO,Virginia Tech,6:14.86,6:14.96,13,8
+36, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Bochenski, Grant",SO,"Dahlgren, Jack",5Y,"Windle, Calvin",SO,"Secchi, Clement",5Y,Missouri,6:15.71,6:15.01,14,6
+37, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Cohen Groumi, Gal",SO,"Ben-Shitrit, Eitan",FR,"Davis, Wyatt",JR,"Moraes, Eduardo",JR,Michigan,6:13.51,6:15.05,15,4
+38, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Bratanov, Koko",SR,"Nelson, Baylor",FR,"Fuchs, Collin",JR,"Foote, Connor",FR,Texas A&M,6:15.38,6:16.32,16,2
+39, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Hussey, Patrick",JR,"Dramm, Louis",FR,"Sungaila, Tomas",5Y,"Rutberg, Noah",JR,UNC,6:15.97,6:16.56,17,0
+40, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Connery, Tim",SO,"Aikins, Jack",SO,"Wright, Jack",SR,"Sergile, Sebastien",FR,Virginia,6:16.62,6:16.91,18,0
+41, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Berg, Max",JR,"Wilby, Mason",5Y,"Martin Roig, Victor",SO,"Rosely, Zane",JR,Kentucky,6:16.26,6:17.44,19,0
+42, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Soloveychik, Bar",SO,"Morris, Christopher",SO,"Neverman, Kaiser",JR,"Hernandez Garcia, Alberto",FR,Minnesota,6:16.25,6:18.81,20,0
+43, Event 2  Men 800 Yard Freestyle Relay,Timed Final Relay,"Goraj, Marcin",JR,"Toledo Sanchez, Dominic",SR,"Frimis, Guy",SO,"Dutkowiak, Wojciech",SR,Pittsburgh,6:19.45,6:20.90,21,0
+44, Event 3  Men 500 Yard Freestyle,Championship Final,"Hobson, Luke",SO,,,,,,,Texas,4:10.51,4:07.37,1,20
+45, Event 3  Men 500 Yard Freestyle,Championship Final,"Johnston, David",JR,,,,,,,Texas,4:10.02,4:08.79,2,17
+46, Event 3  Men 500 Yard Freestyle,Championship Final,"Magahey, Jake",JR,,,,,,,Georgia,4:10.83,4:09.24,3,16
+47, Event 3  Men 500 Yard Freestyle,Championship Final,"Newmark, Jake",JR,,,,,,,Wisconsin,4:10.80,4:10.12,4,15
+48, Event 3  Men 500 Yard Freestyle,Championship Final,"Mitchell, Jake",JR,,,,,,,Florida,4:11.65,4:10.54,5,14
+49, Event 3  Men 500 Yard Freestyle,Championship Final,"Jett, Gabriel",SO,,,,,,,California,4:10.62,4:12.52,6,13
+50, Event 3  Men 500 Yard Freestyle,Championship Final,"Dant, Ross",SR,,,,,,,NC State,4:11.81,4:12.59,7,12
+51, Event 3  Men 500 Yard Freestyle,Championship Final,"Mestre, Alfonso",SR,,,,,,,Florida,4:10.78,4:12.62,8,11
+52, Event 3  Men 500 Yard Freestyle,Consolation Final,"Henveaux, Lucas",5Y,,,,,,,California,4:11.92,4:10.50,9,9
+53, Event 3  Men 500 Yard Freestyle,Consolation Final,"Hoagland, Jack",SR,,,,,,,Notre Dame,4:12.77,4:12.49,10,7
+54, Event 3  Men 500 Yard Freestyle,Consolation Final,"Carrozza, Coby",JR,,,,,,,Texas,4:12.05,4:13.95,11,6
+55, Event 3  Men 500 Yard Freestyle,Consolation Final,"Gallant, Will",JR,,,,,,,NC State,4:13.46,4:13.98,12,5
+56, Event 3  Men 500 Yard Freestyle,Consolation Final,"Gray, Andrew",SR,,,,,,,Arizona St,4:13.59,4:14.61,13,4
+57, Event 3  Men 500 Yard Freestyle,Consolation Final,"Unlu, Baturalp",JR,,,,,,,Georgia Tech,4:13.39,4:14.74,14,3
+58, Event 3  Men 500 Yard Freestyle,Consolation Final,"Mathias, Mason",SO,,,,,,,Auburn,4:12.15,4:15.25,15,2
+59, Event 3  Men 500 Yard Freestyle,Consolation Final,"Bonson, Michael",JR,,,,,,,Auburn,4:12.50,4:15.35,16,1
+60, Event 3  Men 500 Yard Freestyle,Preliminaries,"Johnston, David",JR,,,,,,,Texas,4:10.95,4:10.02,1,0
+61, Event 3  Men 500 Yard Freestyle,Preliminaries,"Hobson, Luke",SO,,,,,,,Texas,4:13.82,4:10.51,2,0
+62, Event 3  Men 500 Yard Freestyle,Preliminaries,"Jett, Gabriel",SO,,,,,,,California,4:09.66,4:10.62,3,0
+63, Event 3  Men 500 Yard Freestyle,Preliminaries,"Mestre, Alfonso",SR,,,,,,,Florida,4:10.15,4:10.78,4,0
+64, Event 3  Men 500 Yard Freestyle,Preliminaries,"Newmark, Jake",JR,,,,,,,Wisconsin,4:12.96,4:10.80,5,0
+65, Event 3  Men 500 Yard Freestyle,Preliminaries,"Magahey, Jake",JR,,,,,,,Georgia,4:09.83,4:10.83,6,0
+66, Event 3  Men 500 Yard Freestyle,Preliminaries,"Mitchell, Jake",JR,,,,,,,Florida,4:09.85,4:11.65,7,0
+67, Event 3  Men 500 Yard Freestyle,Preliminaries,"Dant, Ross",SR,,,,,,,NC State,4:14.29,4:11.81,8,0
+68, Event 3  Men 500 Yard Freestyle,Preliminaries,"Henveaux, Lucas",5Y,,,,,,,California,4:11.06,4:11.92,9,0
+69, Event 3  Men 500 Yard Freestyle,Preliminaries,"Carrozza, Coby",JR,,,,,,,Texas,4:14.12,4:12.05,10,0
+70, Event 3  Men 500 Yard Freestyle,Preliminaries,"Mathias, Mason",SO,,,,,,,Auburn,4:13.06,4:12.15,11,0
+71, Event 3  Men 500 Yard Freestyle,Preliminaries,"Bonson, Michael",JR,,,,,,,Auburn,4:13.10,4:12.50,12,0
+72, Event 3  Men 500 Yard Freestyle,Preliminaries,"Hoagland, Jack",SR,,,,,,,Notre Dame,4:14.24,4:12.77,13,0
+73, Event 3  Men 500 Yard Freestyle,Preliminaries,"Unlu, Baturalp",JR,,,,,,,Georgia Tech,4:12.35,4:13.39,14,0
+74, Event 3  Men 500 Yard Freestyle,Preliminaries,"Gallant, Will",JR,,,,,,,NC State,4:13.85,4:13.46,15,0
+75, Event 3  Men 500 Yard Freestyle,Preliminaries,"Gray, Andrew",SR,,,,,,,Arizona St,4:12.55,4:13.59,16,0
+76, Event 3  Men 500 Yard Freestyle,Preliminaries,"Brown, Eric",FR,,,,,,,Florida,4:12.95,4:14.21,17,0
+77, Event 3  Men 500 Yard Freestyle,Preliminaries,"Hill, Julian",SR,,,,,,,Arizona St,4:12.21,4:14.24,18,0
+78, Event 3  Men 500 Yard Freestyle,Preliminaries,"Matheson, Daniel",SO,,,,,,,Arizona St,4:13.14,4:14.44,19,0
+79, Event 3  Men 500 Yard Freestyle,Preliminaries,"Zettle, Alex",5Y,,,,,,,Texas,4:14.28,4:14.55,20,0
+80, Event 3  Men 500 Yard Freestyle,Preliminaries,"Watson, Tyler",SR,,,,,,,Florida,4:13.92,4:15.01,21,0
+81, Event 3  Men 500 Yard Freestyle,Preliminaries,"Plage, James",JR,,,,,,,NC State,4:12.33,4:15.15,22,0
+82, Event 3  Men 500 Yard Freestyle,Preliminaries,"Millard, Noah",SO,,,,,,,Yale,4:10.62,4:15.32,23,0
+83, Event 3  Men 500 Yard Freestyle,Preliminaries,"Soloveychik, Bar",SO,,,,,,,Minnesota,4:14.45,4:15.87,24,0
+84, Event 3  Men 500 Yard Freestyle,Preliminaries,"Clark, Charlie",JR,,,,,,,Ohio St,4:15.35,4:15.96,25,0
+85, Event 3  Men 500 Yard Freestyle,Preliminaries,"Linscheer, Gio",FR,,,,,,,Florida,4:12.69,4:16.06,26,0
+86, Event 3  Men 500 Yard Freestyle,Preliminaries,"Dominguez Calonge, Luis",SO,,,,,,,Virginia Tech,4:15.80,4:16.26,27,0
+87, Event 3  Men 500 Yard Freestyle,Preliminaries,"Lindholm, Oskar",SO,,,,,,,Florida,4:14.97,4:16.30,28,0
+88, Event 3  Men 500 Yard Freestyle,Preliminaries,"Sarkany, Zalan",FR,,,,,,,Arizona St,4:16.48,4:16.61,29,0
+89, Event 3  Men 500 Yard Freestyle,Preliminaries,"Caruso, Nick",SO,,,,,,,Kentucky,4:15.66,4:16.92,30,0
+90, Event 3  Men 500 Yard Freestyle,Preliminaries,"Kilavuz, Mert",SO,,,,,,,Georgia Tech,4:17.73,4:17.41,31,0
+91, Event 3  Men 500 Yard Freestyle,Preliminaries,"Callan, Patrick",5Y,,,,,,,California,4:12.45,4:17.54,32,0
+92, Event 3  Men 500 Yard Freestyle,Preliminaries,"Hawke, Charlie",SO,,,,,,,Alabama,4:14.36,4:18.04,33,0
+93, Event 3  Men 500 Yard Freestyle,Preliminaries,"Edmund, Mason",FR,,,,,,,Ohio St,4:18.63,4:18.49,34,0
+94, Event 3  Men 500 Yard Freestyle,Preliminaries,"Garcia, Nicolas",SO,,,,,,,Virginia Tech,4:19.03,4:18.75,35,0
+95, Event 3  Men 500 Yard Freestyle,Preliminaries,"Forst, Preston",JR,,,,,,,Stanford,4:14.31,4:19.43,36,0
+96, Event 3  Men 500 Yard Freestyle,Preliminaries,"Enyeart, Alec",FR,,,,,,,Texas,4:14.21,4:19.68,37,0
+97, Event 3  Men 500 Yard Freestyle,Preliminaries,"Machado, Gabe",SO,,,,,,,Stanford,4:18.23,4:20.47,38,0
+98, Event 3  Men 500 Yard Freestyle,Preliminaries,"Abruzzo, Andrew",5Y,,,,,,,Georgia,4:14.36,4:20.74,39,0
+99, Event 3  Men 500 Yard Freestyle,Preliminaries,"Little, Jack",SR,,,,,,,Tennessee,4:18.91,4:21.19,40,0
+100, Event 3  Men 500 Yard Freestyle,Preliminaries,"Myburgh, Keith",5Y,,,,,,,Virginia Tech,4:19.90,4:21.27,41,0
+101, Event 3  Men 500 Yard Freestyle,Preliminaries,"Lim, Nicholas",JR,,,,,,,Princeton,4:20.18,4:21.37,42,0
+102, Event 3  Men 500 Yard Freestyle,Preliminaries,"Nagy, Chris",JR,,,,,,,Minnesota,4:19.75,4:22.27,43,0
+103, Event 3  Men 500 Yard Freestyle,Preliminaries,"Davis, Grant",SO,,,,,,,Auburn,4:16.98,4:22.79,44,0
+104, Event 3  Men 500 Yard Freestyle,Preliminaries,"Yanchev, Yordan",JR,,,,,,,Florida St,4:12.97,4:23.30,45,0
+105, Event 3  Men 500 Yard Freestyle,Preliminaries,"Sandidge, Levi",FR,,,,,,,Kentucky,4:20.24,4:24.68,46,0
+106, Event 3  Men 500 Yard Freestyle,Preliminaries,"Johansson, Victor",5Y,,,,,,,Alabama,4:14.34,DFS,---,0
+107, Event 4  Men 200 Yard IM,Championship Final,"Marchand, Leon",SO,,,,,,,Arizona St,1:38.33,1:36.34,1,20
+108, Event 4  Men 200 Yard IM,Championship Final,"Lasco, Destin",JR,,,,,,,California,1:38.32,1:38.10,2,17
+109, Event 4  Men 200 Yard IM,Championship Final,"Gonzalez, Hugo",5Y,,,,,,,California,1:40.57,1:39.00,3,16
+110, Event 4  Men 200 Yard IM,Championship Final,"Foster, Carson",JR,,,,,,,Texas,1:40.56,1:39.93,4,15
+111, Event 4  Men 200 Yard IM,Championship Final,"Polonsky, Ron",SO,,,,,,,Stanford,1:41.14,1:40.62,5,14
+112, Event 4  Men 200 Yard IM,Championship Final,"Bustos, Arsenio",SO,,,,,,,NC State,1:40.24,1:40.63,6,13
+113, Event 4  Men 200 Yard IM,Championship Final,"Nelson, Baylor",FR,,,,,,,Texas A&M,1:41.01,1:40.88,7,12
+114, Event 4  Men 200 Yard IM,Championship Final,"Foster, Jake",SR,,,,,,,Texas,1:41.52,1:41.03,8,11
+115, Event 4  Men 200 Yard IM,Consolation Final,"House, Grant",5Y,,,,,,,Arizona St,1:41.64,1:41.35,9,9
+116, Event 4  Men 200 Yard IM,Consolation Final,"Schlicht, David",SO,,,,,,,Arizona St,1:41.80,1:41.50,10,7
+117, Event 4  Men 200 Yard IM,Consolation Final,"Kos, Hubert",FR,,,,,,,Arizona St,1:41.83,1:41.61,11,6
+118, Event 4  Men 200 Yard IM,Consolation Final,"Izzo, Giovanni",5Y,,,,,,,NC State,1:41.78,1:41.65,12,5
+119, Event 4  Men 200 Yard IM,Consolation Final,"Khosla, Raunak",SR,,,,,,,Princeton,1:42.00,1:41.69,13,4
+120, Event 4  Men 200 Yard IM,Consolation Final,"Corbeau, Caspar",SR,,,,,,,Texas,1:42.33,1:42.33,14,3
+121, Event 4  Men 200 Yard IM,Consolation Final,"Coll Marti, Carles",JR,,,,,,,Virginia Tech,1:41.64,1:42.56,15,2
+122, Event 4  Men 200 Yard IM,Consolation Final,"Smith, Julian",SO,,,,,,,Florida,1:42.08,1:42.79,16,1
+123, Event 4  Men 200 Yard IM,Preliminaries,"Lasco, Destin",JR,,,,,,,California,1:40.60,1:38.32,1,0
+124, Event 4  Men 200 Yard IM,Preliminaries,"Marchand, Leon",SO,,,,,,,Arizona St,1:37.81,1:38.33,2,0
+125, Event 4  Men 200 Yard IM,Preliminaries,"Bustos, Arsenio",SO,,,,,,,NC State,1:40.31,1:40.24,3,0
+126, Event 4  Men 200 Yard IM,Preliminaries,"Foster, Carson",JR,,,,,,,Texas,1:40.42,1:40.56,4,0
+127, Event 4  Men 200 Yard IM,Preliminaries,"Gonzalez, Hugo",5Y,,,,,,,California,1:38.72,1:40.57,5,0
+128, Event 4  Men 200 Yard IM,Preliminaries,"Nelson, Baylor",FR,,,,,,,Texas A&M,1:40.86,1:41.01,6,0
+129, Event 4  Men 200 Yard IM,Preliminaries,"Polonsky, Ron",SO,,,,,,,Stanford,1:40.42,1:41.14,7,0
+130, Event 4  Men 200 Yard IM,Preliminaries,"Foster, Jake",SR,,,,,,,Texas,1:42.50,1:41.52,8,0
+131, Event 4  Men 200 Yard IM,Preliminaries,"Coll Marti, Carles",JR,,,,,,,Virginia Tech,1:41.02,1:41.64,9,0
+132, Event 4  Men 200 Yard IM,Preliminaries,"House, Grant",5Y,,,,,,,Arizona St,1:41.62,1:41.64,10,0
+133, Event 4  Men 200 Yard IM,Preliminaries,"Izzo, Giovanni",5Y,,,,,,,NC State,1:41.13,1:41.78,11,0
+134, Event 4  Men 200 Yard IM,Preliminaries,"Schlicht, David",SO,,,,,,,Arizona St,1:42.33,1:41.80,12,0
+135, Event 4  Men 200 Yard IM,Preliminaries,"Kos, Hubert",FR,,,,,,,Arizona St,1:42.37,1:41.83,13,0
+136, Event 4  Men 200 Yard IM,Preliminaries,"Khosla, Raunak",SR,,,,,,,Princeton,1:41.11,1:42.00,14,0
+137, Event 4  Men 200 Yard IM,Preliminaries,"Smith, Julian",SO,,,,,,,Florida,1:42.64,1:42.08,15,0
+138, Event 4  Men 200 Yard IM,Preliminaries,"Corbeau, Caspar",SR,,,,,,,Texas,1:44.46,1:42.33,16,0
+139, Event 4  Men 200 Yard IM,Preliminaries,"Vines, Braden",5Y,,,,,,,Texas,1:43.47,1:42.42,17,0
+140, Event 4  Men 200 Yard IM,Preliminaries,"Maas, Derek",SR,,,,,,,Alabama,1:43.04,1:42.59,18,0
+141, Event 4  Men 200 Yard IM,Preliminaries,"Louser, Jason",SR,,,,,,,California,1:41.82,1:42.60,19,0
+142, Event 4  Men 200 Yard IM,Preliminaries,"Cohen Groumi, Gal",SO,,,,,,,Michigan,1:41.20,1:42.63,20,0
+143, Event 4  Men 200 Yard IM,Preliminaries,"Patton, Ben",SR,,,,,,,Missouri,1:42.51,1:42.73,21,0
+144, Event 4  Men 200 Yard IM,Preliminaries,"Bratanov, Koko",SR,,,,,,,Texas A&M,1:42.18,1:42.82,22,0
+145, Event 4  Men 200 Yard IM,Preliminaries,"Hils, Zach",SR,,,,,,,Georgia,1:42.27,1:42.92,23,0
+146, Event 4  Men 200 Yard IM,Preliminaries,"Sherman, Nick",5Y,,,,,,,Purdue,1:42.62,1:42.97,24,0
+147, Event 4  Men 200 Yard IM,Preliminaries,"Gonzalez Pinero, Joaquin",SO,,,,,,,Florida,1:43.09,1:43.05,25,0
+148, Event 4  Men 200 Yard IM,Preliminaries,"Ben-Shitrit, Eitan",FR,,,,,,,Michigan,1:42.90,1:43.17,26,0
+149, Event 4  Men 200 Yard IM,Preliminaries,"Dramm, Louis",FR,,,,,,,UNC,1:44.43,1:43.21,27,0
+150, Event 4  Men 200 Yard IM,Preliminaries,"McDonald, Owen",FR,,,,,,,Arizona St,1:41.60,1:43.29,28,0
+151, Event 4  Men 200 Yard IM,Preliminaries,"Hillis, Dillon",5Y,,,,,,,Florida,1:43.19,1:43.31,29,0
+152, Event 4  Men 200 Yard IM,Preliminaries,"Varjasi, Peter",SR,,,,,,,Florida St,1:43.17,1:43.43,30,0
+153, Event 4  Men 200 Yard IM,Preliminaries,"Mihm, Rick",JR,,,,,,,Stanford,1:42.63,1:43.59,31,0
+154, Event 4  Men 200 Yard IM,Preliminaries,"Saka, Berke",SO,,,,,,,Georgia Tech,1:43.56,1:43.60,32,0
+155, Event 4  Men 200 Yard IM,Preliminaries,"Feehery, Colin",SR,,,,,,,SMU,1:43.45,1:43.67,33,0
+156, Event 4  Men 200 Yard IM,Preliminaries,"Daigle, Jared",5Y,,,,,,,Michigan,1:44.17,1:43.81,34,0
+157, Event 4  Men 200 Yard IM,Preliminaries,"Puente Bustamante, Andres",SR,,,,,,,Texas A&M,1:43.37,1:43.94,35,0
+158, Event 4  Men 200 Yard IM,Preliminaries,"Rathle, Jacques",SO,,,,,,,Auburn,1:43.90,1:43.99,36,0
+159, Event 4  Men 200 Yard IM,Preliminaries,"Schmidt, Danny",FR,,,,,,,Auburn,1:44.21,1:44.09,37,0
+160, Event 4  Men 200 Yard IM,Preliminaries,"Driggers, Landon",SO,,,,,,,Tennessee,1:43.16,1:44.31,38,0
+161, Event 4  Men 200 Yard IM,Preliminaries,"Laur, Mason",SO,,,,,,,Florida,1:45.66,1:44.36,39,0
+162, Event 4  Men 200 Yard IM,Preliminaries,"Jekel, Wes",SR,,,,,,,Wisconsin,1:43.99,1:44.37,40,0
+163, Event 4  Men 200 Yard IM,Preliminaries,"Nichols, Noah",JR,,,,,,,Virginia,1:43.45,1:44.48,41,0
+164, Event 4  Men 200 Yard IM,Preliminaries,"Berlitz, Danny",JR,,,,,,,West Virginia,1:45.15,1:44.50,42,0
+165, Event 4  Men 200 Yard IM,Preliminaries,"Colson, Alexander",SR,,,,,,,Arizona St,1:43.86,1:44.82,43,0
+166, Event 4  Men 200 Yard IM,Preliminaries,"Fers Erzen, Anze",SR,,,,,,,Texas A&M,1:43.36,1:45.11,44,0
+167, Event 4  Men 200 Yard IM,Preliminaries,"Menke, Matt",SR,,,,,,,Alabama,1:43.87,1:45.18,45,0
+168, Event 4  Men 200 Yard IM,Preliminaries,"Torok, Dominik Mark",FR,,,,,,,Wisconsin,1:46.52,1:45.22,46,0
+169, Event 4  Men 200 Yard IM,Preliminaries,"Goodwin, Will",SR,,,,,,,Missouri,1:45.16,1:45.37,47,0
+170, Event 4  Men 200 Yard IM,Preliminaries,"Benzing, Brian",JR,,,,,,,Towson,1:44.41,1:45.45,48,0
+171, Event 4  Men 200 Yard IM,Preliminaries,"Crisci, Flynn",SR,,,,,,,Pittsburgh,1:45.44,1:45.57,49,0
+172, Event 4  Men 200 Yard IM,Preliminaries,"Zuchowski, Josh",FR,,,,,,,Stanford,1:43.86,1:45.70,50,0
+173, Event 4  Men 200 Yard IM,Preliminaries,"McInerny, Evan",JR,,,,,,,Auburn,1:45.91,1:46.13,51,0
+174, Event 4  Men 200 Yard IM,Preliminaries,"Connery, Tim",SO,,,,,,,Virginia,1:42.64,1:46.36,52,0
+175, Event 4  Men 200 Yard IM,Preliminaries,"Kelly, Jack",SO,,,,,,,Brown,1:44.50,1:46.40,53,0
+176, Event 4  Men 200 Yard IM,Preliminaries,"Horner, Jaek",SR,,,,,,,Utah,1:45.08,1:46.45,54,0
+177, Event 4  Men 200 Yard IM,Preliminaries,"Merani, Ryan",FR,,,,,,,Kentucky,1:45.77,1:46.75,55,0
+178, Event 4  Men 200 Yard IM,Preliminaries,"Prolo, Brad",SR,,,,,,,Brigham Young,1:46.11,1:47.84,56,0
+179, Event 4  Men 200 Yard IM,Preliminaries,"Barr, Luke",SO,,,,,,,Indiana,1:43.14,DQ,---,0
+180, Event 4  Men 200 Yard IM,Preliminaries,"Savickas, Aleksas",FR,,,,,,,Florida,1:45.69,DFS,---,0
+181, Event 4  Men 200 Yard IM,Preliminaries,"MacAlister, Leon",SR,,,,,,,Stanford,1:45.95,DFS,---,0
+182, Event 4  Men 200 Yard IM,Preliminaries,"O'Grady, Chris",SO,,,,,,,Southern California,1:44.93,DFS,---,0
+183, Event 4  Men 200 Yard IM,Preliminaries,"Bethel, Henry",SO,,,,,,,Auburn,1:45.15,DFS,---,0
+184, Event 4  Men 200 Yard IM,Preliminaries,"Mikuta, Reid",JR,,,,,,,Auburn,1:42.90,DFS,---,0
+185, Event 5  Men 50 Yard Freestyle,Championship Final,"Crooks, Jordan",SO,,,,,,,Tennessee,18.25,18.32,1,20
+186, Event 5  Men 50 Yard Freestyle,Championship Final,"Liendo, Josh",FR,,,,,,,Florida,18.54,18.40,2,17
+187, Event 5  Men 50 Yard Freestyle,Championship Final,"Seeliger, Bjorn",JR,,,,,,,California,18.46,18.67,3,16
+188, Event 5  Men 50 Yard Freestyle,Championship Final,"Curry, Brooks",SR,,,,,,,LSU,18.72,18.76,4,15
+189, Event 5  Men 50 Yard Freestyle,Championship Final,"Ramadan, Youssef",JR,,,,,,,Virginia Tech,18.87,18.82,5,14
+190, Event 5  Men 50 Yard Freestyle,Championship Final,"Alexy, Jack",SO,,,,,,,California,18.77,18.87,6,13
+191, Event 5  Men 50 Yard Freestyle,Championship Final,"Dolan, Jack",SR,,,,,,,Arizona St,18.87,19.15,7,12
+192, Event 5  Men 50 Yard Freestyle,Championship Final,"Santos, Guilherme",FR,,,,,,,Tennessee,18.81,19.16,8,11
+193, Event 5  Men 50 Yard Freestyle,Consolation Final,"Korstanje, Nyls",SR,,,,,,,NC State,18.94,18.74,9,9
+194, Event 5  Men 50 Yard Freestyle,Consolation Final,"Henderson, Noah",SR,,,,,,,NC State,18.89,18.89,10,7
+195, Event 5  Men 50 Yard Freestyle,Consolation Final,"Mathias, Van",5Y,,,,,,,Indiana,18.89,18.91,11,6
+196, Event 5  Men 50 Yard Freestyle,Consolation Final,"Brownstead, Matt",JR,,,,,,,Virginia,19.03,18.92,12,5
+197, Event 5  Men 50 Yard Freestyle,Consolation Final,"Bell, Liam",SR,,,,,,,California,19.04,18.96,13,4
+198, Event 5  Men 50 Yard Freestyle,Consolation Final,"Curtiss, David",SO,,,,,,,NC State,18.93,19.10,14,2.50
+199, Event 5  Men 50 Yard Freestyle,Consolation Final,"Gaziev, Ruslan",JR,,,,,,,Ohio St,19.00,19.10,14,2.50
+200, Event 5  Men 50 Yard Freestyle,Consolation Final,"Elaraby, Abdelrahman",SR,,,,,,,Louisville,18.96,19.30,16,1
+201, Event 5  Men 50 Yard Freestyle,Preliminaries,"Crooks, Jordan",SO,,,,,,,Tennessee,17.93,18.25,1,0
+202, Event 5  Men 50 Yard Freestyle,Preliminaries,"Seeliger, Bjorn",JR,,,,,,,California,18.87,18.46,2,0
+203, Event 5  Men 50 Yard Freestyle,Preliminaries,"Liendo, Josh",FR,,,,,,,Florida,18.35,18.54,3,0
+204, Event 5  Men 50 Yard Freestyle,Preliminaries,"Curry, Brooks",SR,,,,,,,LSU,18.94,18.72,4,0
+205, Event 5  Men 50 Yard Freestyle,Preliminaries,"Alexy, Jack",SO,,,,,,,California,19.13,18.77,5,0
+206, Event 5  Men 50 Yard Freestyle,Preliminaries,"Santos, Guilherme",FR,,,,,,,Tennessee,18.79,18.81,6,0
+207, Event 5  Men 50 Yard Freestyle,Preliminaries,"Ramadan, Youssef",JR,,,,,,,Virginia Tech,18.82,18.87,7,0
+208, Event 5  Men 50 Yard Freestyle,Preliminaries,"Dolan, Jack",SR,,,,,,,Arizona St,18.86,18.87,7,0
+209, Event 5  Men 50 Yard Freestyle,Preliminaries,"Henderson, Noah",SR,,,,,,,NC State,19.09,18.89,9,0
+210, Event 5  Men 50 Yard Freestyle,Preliminaries,"Mathias, Van",5Y,,,,,,,Indiana,19.00,18.89,10,0
+211, Event 5  Men 50 Yard Freestyle,Preliminaries,"Curtiss, David",SO,,,,,,,NC State,18.95,18.93,11,0
+212, Event 5  Men 50 Yard Freestyle,Preliminaries,"Korstanje, Nyls",SR,,,,,,,NC State,19.12,18.94,12,0
+213, Event 5  Men 50 Yard Freestyle,Preliminaries,"Elaraby, Abdelrahman",SR,,,,,,,Louisville,18.79,18.96,13,0
+214, Event 5  Men 50 Yard Freestyle,Preliminaries,"Gaziev, Ruslan",JR,,,,,,,Ohio St,19.09,19.00,14,0
+215, Event 5  Men 50 Yard Freestyle,Preliminaries,"Brownstead, Matt",JR,,,,,,,Virginia,19.14,19.03,15,0
+216, Event 5  Men 50 Yard Freestyle,Preliminaries,"Bell, Liam",SR,,,,,,,California,19.41,19.04,16,0
+217, Event 5  Men 50 Yard Freestyle,Preliminaries,"Kulow, Jonny",FR,,,,,,,Arizona St,19.09,19.05,17,0
+218, Event 5  Men 50 Yard Freestyle,Preliminaries,"McDuff, Macguire",SO,,,,,,,Florida,18.95,19.05,18,0
+219, Event 5  Men 50 Yard Freestyle,Preliminaries,"Mestre, Alberto",5Y,,,,,,,Florida,19.21,19.10,19,0
+220, Event 5  Men 50 Yard Freestyle,Preliminaries,"Chaney, Adam",JR,,,,,,,Florida,18.71,19.10,19,0
+221, Event 5  Men 50 Yard Freestyle,Preliminaries,"Baganha, Victor",SO,,,,,,,Penn St,19.33,19.10,19,0
+222, Event 5  Men 50 Yard Freestyle,Preliminaries,"Downing, Dillon",SR,,,,,,,Georgia,19.09,19.15,22,0
+223, Event 5  Men 50 Yard Freestyle,Preliminaries,"Guiliano, Chris",SO,,,,,,,Notre Dame,18.88,19.17,23,0
+224, Event 5  Men 50 Yard Freestyle,Preliminaries,"Szabados, Bence",JR,,,,,,,Michigan,19.05,19.21,24,0
+225, Event 5  Men 50 Yard Freestyle,Preliminaries,"Fabiani, Remi",SO,,,,,,,Cal Baptist,19.09,19.24,25,0
+226, Event 5  Men 50 Yard Freestyle,Preliminaries,"Hayes, Aiden",SO,,,,,,,NC State,19.09,19.25,26,0
+227, Event 5  Men 50 Yard Freestyle,Preliminaries,"Salls, Drew",FR,,,,,,,NC State,19.14,19.26,27,0
+228, Event 5  Men 50 Yard Freestyle,Preliminaries,"Maurer, Luke",JR,,,,,,,Stanford,19.46,19.28,28,0
+229, Event 5  Men 50 Yard Freestyle,Preliminaries,"Makinen, Kalle",FR,,,,,,,Auburn,19.20,19.29,29,0
+230, Event 5  Men 50 Yard Freestyle,Preliminaries,"Miller, Luke",JR,,,,,,,NC State,19.59,19.31,30,0
+231, Event 5  Men 50 Yard Freestyle,Preliminaries,"Krueger, Danny",5Y,,,,,,,Texas,19.40,19.32,31,0
+232, Event 5  Men 50 Yard Freestyle,Preliminaries,"Selin, Artem",SO,,,,,,,Southern California,19.16,19.35,32,0
+233, Event 5  Men 50 Yard Freestyle,Preliminaries,"Larson, Peter",SR,,,,,,,Texas,19.41,19.35,32,0
+234, Event 5  Men 50 Yard Freestyle,Preliminaries,"Brooks, Finn",SO,,,,,,,Indiana,19.39,19.36,34,0
+235, Event 5  Men 50 Yard Freestyle,Preliminaries,"Lamb, August",SR,,,,,,,Virginia,19.21,19.36,34,0
+236, Event 5  Men 50 Yard Freestyle,Preliminaries,"Lowe, Dalton",JR,,,,,,,Louisville,19.48,19.40,36,0
+237, Event 5  Men 50 Yard Freestyle,Preliminaries,"McCusker, Max",5Y,,,,,,,Arizona St,19.14,19.42,37,0
+238, Event 5  Men 50 Yard Freestyle,Preliminaries,"Tirheimer, Logan",JR,,,,,,,Auburn,19.05,19.44,38,0
+239, Event 5  Men 50 Yard Freestyle,Preliminaries,"Miroslaw, Rafael",SO,,,,,,,Indiana,19.46,19.44,38,0
+240, Event 5  Men 50 Yard Freestyle,Preliminaries,"Samuels, Brady",SO,,,,,,,Purdue,19.58,19.46,40,0
+241, Event 5  Men 50 Yard Freestyle,Preliminaries,"Aikins, Jack",SO,,,,,,,Virginia,19.32,19.50,41,0
+242, Event 5  Men 50 Yard Freestyle,Preliminaries,"Sammon, Patrick",SO,,,,,,,Arizona St,19.33,19.56,42,0
+243, Event 5  Men 50 Yard Freestyle,Preliminaries,"Rose, Dare",JR,,,,,,,California,19.65,19.56,42,0
+244, Event 5  Men 50 Yard Freestyle,Preliminaries,"Foote, Connor",FR,,,,,,,Texas A&M,19.53,19.59,44,0
+245, Event 5  Men 50 Yard Freestyle,Preliminaries,"Bybee, Cody",5Y,,,,,,,Arizona St,19.51,19.60,45,0
+246, Event 5  Men 50 Yard Freestyle,Preliminaries,"Hawk, Dylan",JR,,,,,,,California,19.55,19.66,46,0
+247, Event 5  Men 50 Yard Freestyle,Preliminaries,"Daleiden Ciuferri, Ralph",FR,,,,,,,Arizona,19.78,19.68,47,0
+248, Event 5  Men 50 Yard Freestyle,Preliminaries,"Gures, Umitcan",SR,,,,,,,Harvard,19.36,19.74,48,0
+249, Event 5  Men 50 Yard Freestyle,Preliminaries,"Gu, Rafael",FR,,,,,,,Stanford,19.53,19.74,48,0
+250, Event 5  Men 50 Yard Freestyle,Preliminaries,"Dupont Cabrera, Andres",FR,,,,,,,Stanford,19.79,19.83,50,0
+251, Event 5  Men 50 Yard Freestyle,Preliminaries,"Ungur, Andrei",SR,,,,,,,Utah,19.80,19.98,51,0
+252, Event 5  Men 50 Yard Freestyle,Preliminaries,"Zhang, Wen",SR,,,,,,,Air Force,19.63,19.99,52,0
+253, Event 5  Men 50 Yard Freestyle,Preliminaries,"Pavlidi, Arijus",SO,,,,,,,Florida St,19.77,20.07,53,0
+254, Event 5  Men 50 Yard Freestyle,Preliminaries,"Chan, Will",5Y,,,,,,,Texas,19.68,DFS,---,0
+255, Event 5  Men 50 Yard Freestyle,Preliminaries,"Berg, Max",JR,,,,,,,Kentucky,19.36,DFS,---,0
+256, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Liendo, Josh",FR,"Chaney, Adam",JR,"Friese, Eric",SR,"McDuff, Macguire",SO,Florida,1:14.19,1:13.35,1,40
+257, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Seeliger, Bjorn",JR,"Alexy, Jack",SO,"Bell, Liam",SR,"Lasco, Destin",JR,California,1:15.40,1:13.82,2,34
+258, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Henderson, Noah",SR,"Korstanje, Nyls",SR,"Miller, Luke",JR,"Curtiss, David",SO,NC State,1:15.10,1:14.44,3,32
+259, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Crooks, Jordan",SO,"Santos, Guilherme",FR,"Scanlon, Scott",SR,"Tarasenko, Aleksey",5Y,Tennessee,1:15.32,1:14.68,4,30
+260, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Dolan, Jack",SR,"Kulow, Jonny",FR,"McCusker, Max",5Y,"House, Grant",5Y,Arizona St,1:15.30,1:15.06,5,28
+261, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Brownstead, Matt",JR,"Lamb, August",SR,"Boyle, Connor",SO,"Aikins, Jack",SO,Virginia,1:15.89,1:15.26,6,26
+262, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Larson, Peter",SR,"Krueger, Danny",5Y,"Corbeau, Caspar",SR,"Hobson, Luke",SO,Texas,1:16.88,1:15.58,7,24
+263, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Ramadan, Youssef",JR,"Coll Marti, Carles",JR,"Dominguez Calonge, Luis",SO,"Hayon, Will",FR,Virginia Tech,1:16.15,1:15.67,8,22
+264, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Mathias, Van",5Y,"Wight, Gavin",JR,"Brooks, Finn",SO,"Miroslaw, Rafael",SO,Indiana,1:16.29,1:15.83,9,18
+265, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Makinen, Kalle",FR,"Tirheimer, Logan",JR,"Stoffle, Nate",SO,"Deliyiannis, Mihalis",5Y,Auburn,1:15.94,1:15.85,10,14
+266, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Elaraby, Abdelrahman",SR,"Eastman, Michael",5Y,"Lowe, Dalton",JR,"Dubinin, Vlad",SR,Louisville,1:15.90,1:15.95,11,12
+267, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Ercegovic, Marin",5Y,"Palmer, Tommy",FR,"Miller, Seth",JR,"Perham, Ryan",JR,Arizona,1:15.97,1:16.08,12,10
+268, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Szabados, Bence",JR,"Peel, Cam",SR,"Cohen Groumi, Gal",SO,"Acin, Nikola",5Y,Michigan,1:16.60,1:16.31,13,8
+269, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Minakov, Andrei",JR,"Maurer, Luke",JR,"Gu, Rafael",FR,"Affeld, Jonny",JR,Stanford,1:16.24,1:16.44,14,6
+270, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Dahlgren, Jack",5Y,"Hammer, Kevin",SR,"Bochenski, Grant",SO,"Storms, Eric",5Y,Missouri,1:16.39,1:16.53,15,4
+271, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Gaziev, Ruslan",JR,"Baltes, Daniel",SO,"McDonald, Mario",JR,"Ward, James",SR,Ohio St,1:16.39,1:16.66,16,2
+272, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Bratanov, Koko",SR,"Foote, Connor",FR,"Nelson, Baylor",FR,"Gogulski, Ethan",SR,Texas A&M,1:16.64,1:16.70,17,0
+273, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Downing, Dillon",SR,"Branzell, Reese",SO,"Hils, Zach",SR,"Dunham, Bradley",SR,Georgia,1:17.10,1:16.80,18,0
+274, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Benson, Andrew",JR,"Wiegand, Ben",SO,"Torepe-Ormsby, Taiko",FR,"Newmark, Jake",JR,Wisconsin,1:16.79,1:16.85,19,0
+275, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Huey, Bryson",SO,"Ratiu, George",JR,"Butler, Steven",SR,"Hemmens, Reece",5Y,UNLV,1:16.62,1:17.30,20,0
+276, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Holmquist, Marcus",JR,"Linnihan, Ryan",SR,"Gures, Umitcan",SR,"Simpson, Jared",SR,Harvard,1:16.54,1:17.36,21,0
+277, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Guiliano, Chris",SO,"Wilburn, Cason",SR,"Scannell, Thacher",SR,"Janton, Tommy",FR,Notre Dame,1:16.89,1:17.44,22,0
+278, Event 7  Men 200 Yard Freestyle Relay,Timed Final Relay,"Korstanje, Tim",FR,"Menke, Matt",SR,"Maas, Derek",SR,"Hawke, Charlie",SO,Alabama,1:17.26,DQ,---,0
+279, Event 8  Men 400 Yard IM,Championship Final,"Marchand, Leon",SO,,,,,,,Arizona St,3:34.47,3:28.82,1,20
+280, Event 8  Men 400 Yard IM,Championship Final,"Gonzalez, Hugo",5Y,,,,,,,California,3:35.86,3:34.66,2,17
+281, Event 8  Men 400 Yard IM,Championship Final,"Foster, Carson",JR,,,,,,,Texas,3:36.38,3:36.02,3,16
+282, Event 8  Men 400 Yard IM,Championship Final,"Kos, Hubert",FR,,,,,,,Arizona St,3:36.86,3:37.00,4,15
+283, Event 8  Men 400 Yard IM,Championship Final,"Louser, Jason",SR,,,,,,,California,3:38.19,3:38.69,5,14
+284, Event 8  Men 400 Yard IM,Championship Final,"Grum, Ian",SR,,,,,,,Georgia,3:38.75,3:38.99,6,13
+285, Event 8  Men 400 Yard IM,Championship Final,"Foster, Jake",SR,,,,,,,Texas,3:39.09,3:40.03,7,12
+286, Event 8  Men 400 Yard IM,Championship Final,"Johnston, David",JR,,,,,,,Texas,3:37.90,3:40.10,8,11
+287, Event 8  Men 400 Yard IM,Consolation Final,"Schlicht, David",SO,,,,,,,Arizona St,3:39.61,3:38.03,9,9
+288, Event 8  Men 400 Yard IM,Consolation Final,"Nelson, Baylor",FR,,,,,,,Texas A&M,3:39.14,3:38.11,10,7
+289, Event 8  Men 400 Yard IM,Consolation Final,"Laur, Mason",SO,,,,,,,Florida,3:39.60,3:40.77,11,6
+290, Event 8  Men 400 Yard IM,Consolation Final,"Hoagland, Jack",SR,,,,,,,Notre Dame,3:41.67,3:40.82,12,5
+291, Event 8  Men 400 Yard IM,Consolation Final,"Torok, Dominik Mark",FR,,,,,,,Wisconsin,3:41.44,3:41.35,13,4
+292, Event 8  Men 400 Yard IM,Consolation Final,"Dramm, Louis",FR,,,,,,,UNC,3:40.93,3:41.45,14,3
+293, Event 8  Men 400 Yard IM,Consolation Final,"Driggers, Landon",SO,,,,,,,Tennessee,3:41.23,3:42.31,15,2
+294, Event 8  Men 400 Yard IM,Consolation Final,"Daigle, Jared",5Y,,,,,,,Michigan,3:40.35,3:42.40,16,1
+295, Event 8  Men 400 Yard IM,Preliminaries,"Marchand, Leon",SO,,,,,,,Arizona St,3:31.57,3:34.47,1,0
+296, Event 8  Men 400 Yard IM,Preliminaries,"Gonzalez, Hugo",5Y,,,,,,,California,3:37.65,3:35.86,2,0
+297, Event 8  Men 400 Yard IM,Preliminaries,"Foster, Carson",JR,,,,,,,Texas,3:35.49,3:36.38,3,0
+298, Event 8  Men 400 Yard IM,Preliminaries,"Kos, Hubert",FR,,,,,,,Arizona St,3:37.68,3:36.86,4,0
+299, Event 8  Men 400 Yard IM,Preliminaries,"Johnston, David",JR,,,,,,,Texas,3:39.36,3:37.90,5,0
+300, Event 8  Men 400 Yard IM,Preliminaries,"Louser, Jason",SR,,,,,,,California,3:37.60,3:38.19,6,0
+301, Event 8  Men 400 Yard IM,Preliminaries,"Grum, Ian",SR,,,,,,,Georgia,3:40.32,3:38.75,7,0
+302, Event 8  Men 400 Yard IM,Preliminaries,"Foster, Jake",SR,,,,,,,Texas,3:39.71,3:39.09,8,0
+303, Event 8  Men 400 Yard IM,Preliminaries,"Nelson, Baylor",FR,,,,,,,Texas A&M,3:38.14,3:39.14,9,0
+304, Event 8  Men 400 Yard IM,Preliminaries,"Laur, Mason",SO,,,,,,,Florida,3:40.18,3:39.60,10,0
+305, Event 8  Men 400 Yard IM,Preliminaries,"Schlicht, David",SO,,,,,,,Arizona St,3:40.03,3:39.61,11,0
+306, Event 8  Men 400 Yard IM,Preliminaries,"Daigle, Jared",5Y,,,,,,,Michigan,3:40.99,3:40.35,12,0
+307, Event 8  Men 400 Yard IM,Preliminaries,"Dramm, Louis",FR,,,,,,,UNC,3:42.24,3:40.93,13,0
+308, Event 8  Men 400 Yard IM,Preliminaries,"Driggers, Landon",SO,,,,,,,Tennessee,3:40.94,3:41.23,14,0
+309, Event 8  Men 400 Yard IM,Preliminaries,"Torok, Dominik Mark",FR,,,,,,,Wisconsin,3:39.96,3:41.44,15,0
+310, Event 8  Men 400 Yard IM,Preliminaries,"Hoagland, Jack",SR,,,,,,,Notre Dame,3:41.15,3:41.67,16,0
+311, Event 8  Men 400 Yard IM,Preliminaries,"Gonzalez Pinero, Joaquin",SO,,,,,,,Florida,3:43.67,3:41.99,17,0
+312, Event 8  Men 400 Yard IM,Preliminaries,"Linscheer, Gio",FR,,,,,,,Florida,3:40.90,3:42.16,18,0
+313, Event 8  Men 400 Yard IM,Preliminaries,"Berlitz, Danny",JR,,,,,,,West Virginia,3:42.28,3:42.53,19,0
+314, Event 8  Men 400 Yard IM,Preliminaries,"Vines, Braden",5Y,,,,,,,Texas,3:41.86,3:42.57,20,0
+315, Event 8  Men 400 Yard IM,Preliminaries,"Henveaux, Lucas",5Y,,,,,,,California,3:42.67,3:42.73,21,0
+316, Event 8  Men 400 Yard IM,Preliminaries,"Matheson, Daniel",SO,,,,,,,Arizona St,3:41.60,3:42.90,22,0
+317, Event 8  Men 400 Yard IM,Preliminaries,"Khosla, Raunak",SR,,,,,,,Princeton,3:41.95,3:42.97,23,0
+318, Event 8  Men 400 Yard IM,Preliminaries,"Fers Erzen, Anze",SR,,,,,,,Texas A&M,3:39.05,3:43.29,24,0
+319, Event 8  Men 400 Yard IM,Preliminaries,"Lloyd, Owen",JR,,,,,,,NC State,3:42.16,3:43.56,25,0
+320, Event 8  Men 400 Yard IM,Preliminaries,"Myburgh, Keith",5Y,,,,,,,Virginia Tech,3:42.46,3:44.46,26,0
+321, Event 8  Men 400 Yard IM,Preliminaries,"Sarkany, Zalan",FR,,,,,,,Arizona St,3:45.04,3:44.56,27,0
+322, Event 8  Men 400 Yard IM,Preliminaries,"Ben-Shitrit, Eitan",FR,,,,,,,Michigan,3:43.49,3:45.24,28,0
+323, Event 8  Men 400 Yard IM,Preliminaries,"Mihm, Rick",JR,,,,,,,Stanford,3:44.64,3:45.29,29,0
+324, Event 8  Men 400 Yard IM,Preliminaries,"Rathle, Jacques",SO,,,,,,,Auburn,3:41.74,3:45.67,30,0
+325, Event 8  Men 400 Yard IM,Preliminaries,"Bried, Tommy",SO,,,,,,,Louisville,3:41.50,3:46.00,31,0
+326, Event 8  Men 400 Yard IM,Preliminaries,"Feehery, Colin",SR,,,,,,,SMU,3:42.99,3:47.24,32,0
+327, Event 8  Men 400 Yard IM,Preliminaries,"Edmund, Mason",FR,,,,,,,Ohio St,3:47.92,3:47.97,33,0
+328, Event 8  Men 400 Yard IM,Preliminaries,"Merani, Ryan",FR,,,,,,,Kentucky,3:42.19,3:48.53,34,0
+329, Event 8  Men 400 Yard IM,Preliminaries,"Schmidt, Danny",FR,,,,,,,Auburn,3:42.99,3:50.37,35,0
+330, Event 8  Men 400 Yard IM,Preliminaries,"Garcia, Nicolas",SO,,,,,,,Virginia Tech,3:41.63,3:50.99,36,0
+331, Event 8  Men 400 Yard IM,Preliminaries,"McInerny, Evan",JR,,,,,,,Auburn,3:47.81,DFS,---,0
+332, Event 9  Men 100 Yard Butterfly,Championship Final,"Ramadan, Youssef",JR,,,,,,,Virginia Tech,44.00,43.15,1,20
+333, Event 9  Men 100 Yard Butterfly,Championship Final,"Liendo, Josh",FR,,,,,,,Florida,43.80,43.40,2,17
+334, Event 9  Men 100 Yard Butterfly,Championship Final,"Frankel, Tomer",JR,,,,,,,Indiana,44.26,44.04,3,16
+335, Event 9  Men 100 Yard Butterfly,Championship Final,"Minakov, Andrei",JR,,,,,,,Stanford,44.17,44.27,4,15
+336, Event 9  Men 100 Yard Butterfly,Championship Final,"Crooks, Jordan",SO,,,,,,,Tennessee,44.52,44.29,5,14
+337, Event 9  Men 100 Yard Butterfly,Championship Final,"Hayes, Aiden",SO,,,,,,,NC State,44.40,44.35,6,13
+338, Event 9  Men 100 Yard Butterfly,Championship Final,"Korstanje, Nyls",SR,,,,,,,NC State,44.56,44.86,7,12
+339, Event 9  Men 100 Yard Butterfly,Championship Final,"Stokowski, Kacper",SR,,,,,,,NC State,44.65,48.27,8,11
+340, Event 9  Men 100 Yard Butterfly,Consolation Final,"Burns, Brendan",SR,,,,,,,Indiana,44.79,44.60,9,9
+341, Event 9  Men 100 Yard Butterfly,Consolation Final,"Rose, Dare",JR,,,,,,,California,44.86,44.75,10,7
+342, Event 9  Men 100 Yard Butterfly,Consolation Final,"Bustos, Arsenio",SO,,,,,,,NC State,45.24,44.89,11,6
+343, Event 9  Men 100 Yard Butterfly,Consolation Final,"Cohen Groumi, Gal",SO,,,,,,,Michigan,44.80,44.98,12,5
+344, Event 9  Men 100 Yard Butterfly,Consolation Final,"Baganha, Victor",SO,,,,,,,Penn St,44.75,45.04,13,4
+345, Event 9  Men 100 Yard Butterfly,Consolation Final,"Secchi, Clement",5Y,,,,,,,Missouri,44.96,45.24,14,3
+346, Event 9  Men 100 Yard Butterfly,Consolation Final,"Foote, Connor",FR,,,,,,,Texas A&M,45.21,45.41,15,2
+347, Event 9  Men 100 Yard Butterfly,Consolation Final,"Sequeira, Aaron",SO,,,,,,,Stanford,44.87,45.56,16,1
+348, Event 9  Men 100 Yard Butterfly,Preliminaries,"Liendo, Josh",FR,,,,,,,Florida,44.11,43.80,1,0
+349, Event 9  Men 100 Yard Butterfly,Preliminaries,"Ramadan, Youssef",JR,,,,,,,Virginia Tech,43.93,44.00,2,0
+350, Event 9  Men 100 Yard Butterfly,Preliminaries,"Minakov, Andrei",JR,,,,,,,Stanford,44.34,44.17,3,0
+351, Event 9  Men 100 Yard Butterfly,Preliminaries,"Frankel, Tomer",JR,,,,,,,Indiana,44.66,44.26,4,0
+352, Event 9  Men 100 Yard Butterfly,Preliminaries,"Hayes, Aiden",SO,,,,,,,NC State,44.66,44.40,5,0
+353, Event 9  Men 100 Yard Butterfly,Preliminaries,"Crooks, Jordan",SO,,,,,,,Tennessee,44.04,44.52,6,0
+354, Event 9  Men 100 Yard Butterfly,Preliminaries,"Korstanje, Nyls",SR,,,,,,,NC State,44.70,44.56,7,0
+355, Event 9  Men 100 Yard Butterfly,Preliminaries,"Stokowski, Kacper",SR,,,,,,,NC State,44.68,44.65,8,0
+356, Event 9  Men 100 Yard Butterfly,Preliminaries,"Baganha, Victor",SO,,,,,,,Penn St,45.22,44.75,9,0
+357, Event 9  Men 100 Yard Butterfly,Preliminaries,"Burns, Brendan",SR,,,,,,,Indiana,45.81,44.79,10,0
+358, Event 9  Men 100 Yard Butterfly,Preliminaries,"Cohen Groumi, Gal",SO,,,,,,,Michigan,44.50,44.80,11,0
+359, Event 9  Men 100 Yard Butterfly,Preliminaries,"Rose, Dare",JR,,,,,,,California,45.30,44.86,12,0
+360, Event 9  Men 100 Yard Butterfly,Preliminaries,"Sequeira, Aaron",SO,,,,,,,Stanford,45.01,44.87,13,0
+361, Event 9  Men 100 Yard Butterfly,Preliminaries,"Secchi, Clement",5Y,,,,,,,Missouri,45.08,44.96,14,0
+362, Event 9  Men 100 Yard Butterfly,Preliminaries,"Foote, Connor",FR,,,,,,,Texas A&M,45.22,45.21,15,0
+363, Event 9  Men 100 Yard Butterfly,Preliminaries,"Bustos, Arsenio",SO,,,,,,,NC State,44.97,45.24,16,0
+364, Event 9  Men 100 Yard Butterfly,Preliminaries,"Gures, Umitcan",SR,,,,,,,Harvard,44.91,45.32,17,0
+365, Event 9  Men 100 Yard Butterfly,Preliminaries,"Quach, Alex",SO,,,,,,,Ohio St,45.08,45.33,18,0
+366, Event 9  Men 100 Yard Butterfly,Preliminaries,"Gu, Rafael",FR,,,,,,,Stanford,45.10,45.35,19,0
+367, Event 9  Men 100 Yard Butterfly,Preliminaries,"Henderson, Noah",SR,,,,,,,NC State,45.57,45.38,20,0
+368, Event 9  Men 100 Yard Butterfly,Preliminaries,"Lowe, Dalton",JR,,,,,,,Louisville,45.28,45.38,20,0
+369, Event 9  Men 100 Yard Butterfly,Preliminaries,"Brooks, Finn",SO,,,,,,,Indiana,45.40,45.45,22,0
+370, Event 9  Men 100 Yard Butterfly,Preliminaries,"Colson, Alexander",SR,,,,,,,Arizona St,45.38,45.48,23,0
+371, Event 9  Men 100 Yard Butterfly,Preliminaries,"Lee, Connor",JR,,,,,,,Yale,45.52,45.53,24,0
+372, Event 9  Men 100 Yard Butterfly,Preliminaries,"Connery, Tim",SO,,,,,,,Virginia,45.21,45.60,25,0
+373, Event 9  Men 100 Yard Butterfly,Preliminaries,"McCusker, Max",5Y,,,,,,,Arizona St,45.01,45.63,26,0
+374, Event 9  Men 100 Yard Butterfly,Preliminaries,"Jensen, Matthew",JR,,,,,,,California,45.57,45.66,27,0
+375, Event 9  Men 100 Yard Butterfly,Preliminaries,"Kammann, Bjoern",SO,,,,,,,Tennessee,45.32,45.84,28,0
+376, Event 9  Men 100 Yard Butterfly,Preliminaries,"Crane, Sterling",SR,,,,,,,Texas,45.61,45.84,28,0
+377, Event 9  Men 100 Yard Butterfly,Preliminaries,"Bybee, Cody",5Y,,,,,,,Arizona St,45.51,45.93,30,0
+378, Event 9  Men 100 Yard Butterfly,Preliminaries,"Poelke, Boyd",JR,,,,,,,UNC,45.11,45.95,31,0
+379, Event 9  Men 100 Yard Butterfly,Preliminaries,"Artmann, Sam",SR,,,,,,,Texas,46.18,45.97,32,0
+380, Event 9  Men 100 Yard Butterfly,Preliminaries,"Neverman, Kaiser",JR,,,,,,,Minnesota,46.40,46.02,33,0
+381, Event 9  Men 100 Yard Butterfly,Preliminaries,"Gentry, Landon",FR,,,,,,,Virginia Tech,46.35,46.07,34,0
+382, Event 9  Men 100 Yard Butterfly,Preliminaries,"Fong, Josh",SR,,,,,,,Virginia,46.37,46.32,35,0
+383, Event 9  Men 100 Yard Butterfly,Preliminaries,"Gustafson, Chachi",SR,,,,,,,Ohio St,46.54,46.34,36,0
+384, Event 9  Men 100 Yard Butterfly,Preliminaries,"Lim, Nicholas",JR,,,,,,,Princeton,45.87,46.36,37,0
+385, Event 9  Men 100 Yard Butterfly,Preliminaries,"Miceli, Mateo",SO,,,,,,,Alabama,45.95,46.53,38,0
+386, Event 9  Men 100 Yard Butterfly,Preliminaries,"Mahler, Adam",SR,,,,,,,Pittsburgh,47.13,46.81,39,0
+387, Event 9  Men 100 Yard Butterfly,Preliminaries,"Miller, Ben",SR,,,,,,,Northwestern,46.94,46.98,40,0
+388, Event 9  Men 100 Yard Butterfly,Preliminaries,"Espernberger, Martin",FR,,,,,,,Tennessee,47.17,47.27,41,0
+389, Event 9  Men 100 Yard Butterfly,Preliminaries,"Molla Yanes, Mario",SO,,,,,,,Virginia Tech,45.44,47.66,42,0
+390, Event 9  Men 100 Yard Butterfly,Preliminaries,"Tirheimer, Logan",JR,,,,,,,Auburn,46.33,DFS,---,0
+391, Event 9  Men 100 Yard Butterfly,Preliminaries,"Stoffle, Aidan",SR,,,,,,,Auburn,45.68,DFS,---,0
+392, Event 9  Men 100 Yard Butterfly,Preliminaries,"Stoffle, Nate",SO,,,,,,,Auburn,46.17,DFS,---,0
+393, Event 9  Men 100 Yard Butterfly,Preliminaries,"Lierz, Harrison",JR,,,,,,,Tennessee,46.01,DFS,---,0
+394, Event 10  Men 200 Yard Freestyle,Championship Final,"Hobson, Luke",SO,,,,,,,Texas,1:30.78,1:30.43,1,20
+395, Event 10  Men 200 Yard Freestyle,Championship Final,"Jett, Gabriel",SO,,,,,,,California,1:30.86,1:30.74,2,17
+396, Event 10  Men 200 Yard Freestyle,Championship Final,"House, Grant",5Y,,,,,,,Arizona St,1:32.12,1:31.12,3,16
+397, Event 10  Men 200 Yard Freestyle,Championship Final,"Curry, Brooks",SR,,,,,,,LSU,1:31.94,1:31.30,4,15
+398, Event 10  Men 200 Yard Freestyle,Championship Final,"Dahlgren, Jack",5Y,,,,,,,Missouri,1:32.06,1:32.00,5,14
+399, Event 10  Men 200 Yard Freestyle,Championship Final,"Hill, Julian",SR,,,,,,,Arizona St,1:31.74,1:32.25,6,13
+400, Event 10  Men 200 Yard Freestyle,Championship Final,"Sammon, Patrick",SO,,,,,,,Arizona St,1:32.28,1:32.61,7,12
+401, Event 10  Men 200 Yard Freestyle,Championship Final,"Carrozza, Coby",JR,,,,,,,Texas,1:32.06,1:32.67,8,11
+402, Event 10  Men 200 Yard Freestyle,Consolation Final,"Guiliano, Chris",SO,,,,,,,Notre Dame,1:32.36,1:32.31,9,9
+403, Event 10  Men 200 Yard Freestyle,Consolation Final,"Mitchell, Jake",JR,,,,,,,Florida,1:32.56,1:32.36,10,7
+404, Event 10  Men 200 Yard Freestyle,Consolation Final,"Gray, Andrew",SR,,,,,,,Arizona St,1:32.51,1:32.47,11,6
+405, Event 10  Men 200 Yard Freestyle,Consolation Final,"Maurer, Luke",JR,,,,,,,Stanford,1:32.40,1:32.54,12,5
+406, Event 10  Men 200 Yard Freestyle,Consolation Final,"Miroslaw, Rafael",SO,,,,,,,Indiana,1:32.28,1:32.65,13,4
+407, Event 10  Men 200 Yard Freestyle,Consolation Final,"Gaziev, Ruslan",JR,,,,,,,Ohio St,1:32.59,1:32.85,14,3
+408, Event 10  Men 200 Yard Freestyle,Consolation Final,"Zhang, Wen",SR,,,,,,,Air Force,1:32.61,1:32.87,15,2
+409, Event 10  Men 200 Yard Freestyle,Consolation Final,"Hawke, Charlie",SO,,,,,,,Alabama,1:32.42,1:33.27,16,1
+410, Event 10  Men 200 Yard Freestyle,Preliminaries,"Hobson, Luke",SO,,,,,,,Texas,1:31.89,1:30.78,1,0
+411, Event 10  Men 200 Yard Freestyle,Preliminaries,"Jett, Gabriel",SO,,,,,,,California,1:32.41,1:30.86,2,0
+412, Event 10  Men 200 Yard Freestyle,Preliminaries,"Hill, Julian",SR,,,,,,,Arizona St,1:32.26,1:31.74,3,0
+413, Event 10  Men 200 Yard Freestyle,Preliminaries,"Curry, Brooks",SR,,,,,,,LSU,1:33.15,1:31.94,4,0
+414, Event 10  Men 200 Yard Freestyle,Preliminaries,"Dahlgren, Jack",5Y,,,,,,,Missouri,1:31.17,1:32.06,5,0
+415, Event 10  Men 200 Yard Freestyle,Preliminaries,"Carrozza, Coby",JR,,,,,,,Texas,1:32.65,1:32.06,5,0
+416, Event 10  Men 200 Yard Freestyle,Preliminaries,"House, Grant",5Y,,,,,,,Arizona St,1:30.67,1:32.12,7,0
+417, Event 10  Men 200 Yard Freestyle,Preliminaries,"Sammon, Patrick",SO,,,,,,,Arizona St,1:31.82,1:32.28,8,0
+418, Event 10  Men 200 Yard Freestyle,Preliminaries,"Miroslaw, Rafael",SO,,,,,,,Indiana,1:32.10,1:32.28,9,0
+419, Event 10  Men 200 Yard Freestyle,Preliminaries,"Guiliano, Chris",SO,,,,,,,Notre Dame,1:32.43,1:32.36,10,0
+420, Event 10  Men 200 Yard Freestyle,Preliminaries,"Maurer, Luke",JR,,,,,,,Stanford,1:32.47,1:32.40,11,0
+421, Event 10  Men 200 Yard Freestyle,Preliminaries,"Hawke, Charlie",SO,,,,,,,Alabama,1:31.20,1:32.42,12,0
+422, Event 10  Men 200 Yard Freestyle,Preliminaries,"Gray, Andrew",SR,,,,,,,Arizona St,1:33.34,1:32.51,13,0
+423, Event 10  Men 200 Yard Freestyle,Preliminaries,"Mitchell, Jake",JR,,,,,,,Florida,1:32.69,1:32.56,14,0
+424, Event 10  Men 200 Yard Freestyle,Preliminaries,"Gaziev, Ruslan",JR,,,,,,,Ohio St,1:31.94,1:32.59,15,0
+425, Event 10  Men 200 Yard Freestyle,Preliminaries,"Zhang, Wen",SR,,,,,,,Air Force,1:31.42,1:32.61,16,0
+426, Event 10  Men 200 Yard Freestyle,Preliminaries,"Miller, Luke",JR,,,,,,,NC State,1:31.87,1:32.68,17,0
+427, Event 10  Men 200 Yard Freestyle,Preliminaries,"McDuff, Macguire",SO,,,,,,,Florida,1:32.34,1:32.94,18,0
+428, Event 10  Men 200 Yard Freestyle,Preliminaries,"Brooks, Guy",FR,,,,,,,Louisville,1:32.49,1:32.96,19,0
+429, Event 10  Men 200 Yard Freestyle,Preliminaries,"Unlu, Baturalp",JR,,,,,,,Georgia Tech,1:32.47,1:32.98,20,0
+430, Event 10  Men 200 Yard Freestyle,Preliminaries,"Piszczorowicz, Bartosz",SR,,,,,,,NC State,1:32.47,1:33.05,21,0
+431, Event 10  Men 200 Yard Freestyle,Preliminaries,"Sartori, Murilo",SO,,,,,,,Louisville,1:32.23,1:33.06,22,0
+432, Event 10  Men 200 Yard Freestyle,Preliminaries,"Hawk, Dylan",JR,,,,,,,California,1:32.79,1:33.09,23,0
+433, Event 10  Men 200 Yard Freestyle,Preliminaries,"Magahey, Jake",JR,,,,,,,Georgia,1:32.42,1:33.16,24,0
+434, Event 10  Men 200 Yard Freestyle,Preliminaries,"Dupont Cabrera, Andres",FR,,,,,,,Stanford,1:33.36,1:33.21,25,0
+435, Event 10  Men 200 Yard Freestyle,Preliminaries,"Larson, Peter",SR,,,,,,,Texas,1:32.50,1:33.25,26,0
+436, Event 10  Men 200 Yard Freestyle,Preliminaries,"Sherman, Nick",5Y,,,,,,,Purdue,1:33.56,1:33.27,27,0
+437, Event 10  Men 200 Yard Freestyle,Preliminaries,"Bowers, Noah",SR,,,,,,,NC State,1:33.67,1:33.31,28,0
+438, Event 10  Men 200 Yard Freestyle,Preliminaries,"Daleiden Ciuferri, Ralph",FR,,,,,,,Arizona,1:32.80,1:33.37,29,0
+439, Event 10  Men 200 Yard Freestyle,Preliminaries,"Dominguez Calonge, Luis",SO,,,,,,,Virginia Tech,1:32.72,1:33.50,30,0
+440, Event 10  Men 200 Yard Freestyle,Preliminaries,"Berg, Max",JR,,,,,,,Kentucky,1:32.67,1:33.58,31,0
+441, Event 10  Men 200 Yard Freestyle,Preliminaries,"Callan, Patrick",5Y,,,,,,,California,1:32.47,1:33.59,32,0
+442, Event 10  Men 200 Yard Freestyle,Preliminaries,"Newmark, Jake",JR,,,,,,,Wisconsin,1:31.61,1:33.83,33,0
+443, Event 10  Men 200 Yard Freestyle,Preliminaries,"Bratanov, Koko",SR,,,,,,,Texas A&M,1:32.49,1:34.00,34,0
+444, Event 10  Men 200 Yard Freestyle,Preliminaries,"Mathias, Mason",SO,,,,,,,Auburn,1:34.09,1:34.00,34,0
+445, Event 10  Men 200 Yard Freestyle,Preliminaries,"Mestre, Alfonso",SR,,,,,,,Florida,1:33.24,1:34.08,36,0
+446, Event 10  Men 200 Yard Freestyle,Preliminaries,"Varjasi, Peter",SR,,,,,,,Florida St,1:34.23,1:34.16,37,0
+447, Event 10  Men 200 Yard Freestyle,Preliminaries,"Hils, Zach",SR,,,,,,,Georgia,1:33.74,1:34.69,38,0
+448, Event 10  Men 200 Yard Freestyle,Preliminaries,"Millard, Noah",SO,,,,,,,Yale,1:32.85,1:34.82,39,0
+449, Event 10  Men 200 Yard Freestyle,Preliminaries,"Bonson, Michael",JR,,,,,,,Auburn,1:33.54,1:34.88,40,0
+450, Event 10  Men 200 Yard Freestyle,Preliminaries,"Yanchev, Yordan",JR,,,,,,,Florida St,1:33.92,1:34.88,40,0
+451, Event 10  Men 200 Yard Freestyle,Preliminaries,"Forst, Preston",JR,,,,,,,Stanford,1:34.09,1:35.03,42,0
+452, Event 10  Men 200 Yard Freestyle,Preliminaries,"Eastman, Michael",5Y,,,,,,,Louisville,1:33.45,1:35.24,43,0
+453, Event 10  Men 200 Yard Freestyle,Preliminaries,"Lindholm, Oskar",SO,,,,,,,Florida,1:34.23,1:35.30,44,0
+454, Event 10  Men 200 Yard Freestyle,Preliminaries,"Tapp, Hunter",SR,,,,,,,NC State,1:33.45,DFS,---,0
+455, Event 10  Men 200 Yard Freestyle,Preliminaries,"Kulow, Jonny",FR,,,,,,,Arizona St,1:33.67,DFS,---,0
+456, Event 11  Men 100 Yard Breaststroke,Championship Final,"McHugh, Max",5Y,,,,,,,Minnesota,50.26,50.00,1,20
+457, Event 11  Men 100 Yard Breaststroke,Championship Final,"Mathias, Van",5Y,,,,,,,Indiana,50.57,50.60,2,17
+458, Event 11  Men 100 Yard Breaststroke,Championship Final,"Petrashov, Denis",SR,,,,,,,Louisville,51.12,50.78,3,16
+459, Event 11  Men 100 Yard Breaststroke,Championship Final,"Corbeau, Caspar",SR,,,,,,,Texas,50.82,50.79,4,15
+460, Event 11  Men 100 Yard Breaststroke,Championship Final,"Hillis, Dillon",5Y,,,,,,,Florida,50.88,50.80,5,14
+461, Event 11  Men 100 Yard Breaststroke,Championship Final,"Bell, Liam",SR,,,,,,,California,50.76,50.88,6,13
+462, Event 11  Men 100 Yard Breaststroke,Championship Final,"Whitley, Reece",5Y,,,,,,,California,51.00,51.04,7,12
+463, Event 11  Men 100 Yard Breaststroke,Championship Final,"Maas, Derek",SR,,,,,,,Alabama,51.05,51.23,8,11
+464, Event 11  Men 100 Yard Breaststroke,Consolation Final,"Matheny, Josh",SO,,,,,,,Indiana,51.17,50.99,9,9
+465, Event 11  Men 100 Yard Breaststroke,Consolation Final,"Mikuta, Reid",JR,,,,,,,Auburn,51.66,51.06,10,7
+466, Event 11  Men 100 Yard Breaststroke,Consolation Final,"Patton, Ben",SR,,,,,,,Missouri,51.43,51.41,11,5.50
+467, Event 11  Men 100 Yard Breaststroke,Consolation Final,"Polonsky, Ron",SO,,,,,,,Stanford,51.14,51.41,11,5.50
+468, Event 11  Men 100 Yard Breaststroke,Consolation Final,"Savickas, Aleksas",FR,,,,,,,Florida,51.14,51.44,13,4
+469, Event 11  Men 100 Yard Breaststroke,Consolation Final,"Smith, Julian",SO,,,,,,,Florida,51.34,51.45,14,3
+470, Event 11  Men 100 Yard Breaststroke,Consolation Final,"Benzing, Brian",JR,,,,,,,Towson,51.30,51.48,15,2
+471, Event 11  Men 100 Yard Breaststroke,Consolation Final,"Van Der Laan, Cooper",SR,,,,,,,Pittsburgh,51.32,51.72,16,1
+472, Event 11  Men 100 Yard Breaststroke,Preliminaries,"McHugh, Max",5Y,,,,,,,Minnesota,50.80,50.26,1,0
+473, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Mathias, Van",5Y,,,,,,,Indiana,51.32,50.57,2,0
+474, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Bell, Liam",SR,,,,,,,California,51.58,50.76,3,0
+475, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Corbeau, Caspar",SR,,,,,,,Texas,51.30,50.82,4,0
+476, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Hillis, Dillon",5Y,,,,,,,Florida,50.90,50.88,5,0
+477, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Whitley, Reece",5Y,,,,,,,California,51.12,51.00,6,0
+478, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Maas, Derek",SR,,,,,,,Alabama,51.74,51.05,7,0
+479, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Petrashov, Denis",SR,,,,,,,Louisville,51.26,51.12,8,0
+480, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Polonsky, Ron",SO,,,,,,,Stanford,51.77,51.14,9,0
+481, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Savickas, Aleksas",FR,,,,,,,Florida,50.73,51.14,10,0
+482, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Matheny, Josh",SO,,,,,,,Indiana,51.50,51.17,11,0
+483, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Benzing, Brian",JR,,,,,,,Towson,51.25,51.30,12,0
+484, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Van Der Laan, Cooper",SR,,,,,,,Pittsburgh,51.26,51.32,13,0
+485, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Smith, Julian",SO,,,,,,,Florida,51.52,51.34,14,0
+486, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Patton, Ben",SR,,,,,,,Missouri,51.53,51.43,15,0
+487, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Mikuta, Reid",JR,,,,,,,Auburn,51.14,51.66,16,0
+488, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Nichols, Noah",JR,,,,,,,Virginia,50.82,51.67,17,0
+489, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Coll Marti, Carles",JR,,,,,,,Virginia Tech,51.50,51.71,18,0
+490, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Epitropov, Lyubomir",5Y,,,,,,,Tennessee,52.10,51.88,19,0
+491, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Hunter, Mason",5Y,,,,,,,NC State,51.57,51.88,19,0
+492, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Yep, Jassen",JR,,,,,,,Indiana,52.05,52.00,21,0
+493, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Puente Bustamante, Andres",SR,,,,,,,Texas A&M,51.96,52.06,22,0
+494, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Bethel, Henry",SO,,,,,,,Auburn,51.87,52.13,23,0
+495, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Demir, Demirkan",SO,,,,,,,Columbia,52.03,52.13,23,0
+496, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Myhre, Will",SR,,,,,,,Wisconsin,51.84,52.17,25,0
+497, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Jensen, Matthew",JR,,,,,,,California,51.42,52.17,25,0
+498, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Crisci, Flynn",SR,,,,,,,Pittsburgh,51.87,52.18,27,0
+499, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Houseman, Kevin",SR,,,,,,,Northwestern,51.83,52.23,28,0
+500, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Chan, Will",5Y,,,,,,,Texas,51.65,52.25,29,0
+501, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Dillard, Jarel",5Y,,,,,,,Tennessee,52.10,52.33,30,0
+502, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Kelly, Jack",SO,,,,,,,Brown,52.08,52.45,31,0
+503, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Reich, Maxwell",JR,,,,,,,Indiana,52.84,52.46,32,0
+504, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Houlie, Michael",5Y,,,,,,,Tennessee,51.90,52.47,33,0
+505, Event 11  Men 100 Yard Breaststroke,Preliminaries,"O'Grady, Chris",SO,,,,,,,Southern California,52.09,52.52,34,0
+506, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Sanchez, Alex",JR,,,,,,,Texas A&M,51.90,52.54,35,0
+507, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Al-Wir, Amro",JR,,,,,,,Florida,52.53,52.55,36,0
+508, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Wuilliez, Jadon",SO,,,,,,,TCU,51.70,52.59,37,0
+509, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Horner, Jaek",SR,,,,,,,Utah,51.78,52.65,38,0
+510, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Soderlund, Jacob",SO,,,,,,,California,51.90,52.68,39,0
+511, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Barr, Luke",SO,,,,,,,Indiana,52.68,52.73,40,0
+512, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Goodwin, Will",SR,,,,,,,Missouri,52.71,52.78,41,0
+513, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Pouch, AJ",SR,,,,,,,Virginia Tech,52.55,52.84,42,0
+514, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Prolo, Brad",SR,,,,,,,Brigham Young,52.67,52.85,43,0
+515, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Lamb, August",SR,,,,,,,Virginia,52.91,53.25,44,0
+516, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Kelly, Logan",SO,,,,,,,IUPUI,51.94,DQ,---,0
+517, Event 11  Men 100 Yard Breaststroke,Preliminaries,"Izzo, Giovanni",5Y,,,,,,,NC State,52.39,DFS,---,0
+518, Event 12  Men 100 Yard Backstroke,Championship Final,"Burns, Brendan",SR,,,,,,,Indiana,44.28,43.61,1,20
+519, Event 12  Men 100 Yard Backstroke,Championship Final,"Stokowski, Kacper",SR,,,,,,,NC State,44.02,43.86,2,17
+520, Event 12  Men 100 Yard Backstroke,Championship Final,"Lasco, Destin",JR,,,,,,,California,43.93,43.94,3,16
+521, Event 12  Men 100 Yard Backstroke,Championship Final,"Chaney, Adam",JR,,,,,,,Florida,44.28,44.42,4,15
+522, Event 12  Men 100 Yard Backstroke,Championship Final,"Ungur, Andrei",SR,,,,,,,Utah,45.05,44.58,5,14
+523, Event 12  Men 100 Yard Backstroke,Championship Final,"McDonald, Owen",FR,,,,,,,Arizona St,44.97,44.85,6,13
+524, Event 12  Men 100 Yard Backstroke,Championship Final,"Dolan, Jack",SR,,,,,,,Arizona St,44.78,44.93,7,12
+525, Event 12  Men 100 Yard Backstroke,Championship Final,"Stoffle, Nate",SO,,,,,,,Auburn,44.93,45.38,8,11
+526, Event 12  Men 100 Yard Backstroke,Consolation Final,"Van Renen, Ruard",FR,,,,,,,SIUC,45.17,44.67,9,9
+527, Event 12  Men 100 Yard Backstroke,Consolation Final,"Seeliger, Bjorn",JR,,,,,,,California,45.33,45.00,10,7
+528, Event 12  Men 100 Yard Backstroke,Consolation Final,"Izzo, Giovanni",5Y,,,,,,,NC State,45.20,45.03,11,6
+529, Event 12  Men 100 Yard Backstroke,Consolation Final,"Stoffle, Aidan",SR,,,,,,,Auburn,45.22,45.09,12,5
+530, Event 12  Men 100 Yard Backstroke,Consolation Final,"Dunham, Bradley",SR,,,,,,,Georgia,45.13,45.22,13,4
+531, Event 12  Men 100 Yard Backstroke,Consolation Final,"Janton, Tommy",FR,,,,,,,Notre Dame,45.54,45.43,14,3
+532, Event 12  Men 100 Yard Backstroke,Consolation Final,"Simons, Nick",FR,,,,,,,Tennessee,45.50,45.45,15,2
+533, Event 12  Men 100 Yard Backstroke,Consolation Final,"Samuels, Brady",SO,,,,,,,Purdue,45.17,45.50,16,1
+534, Event 12  Men 100 Yard Backstroke,Preliminaries,"Lasco, Destin",JR,,,,,,,California,44.57,43.93,1,0
+535, Event 12  Men 100 Yard Backstroke,Preliminaries,"Stokowski, Kacper",SR,,,,,,,NC State,44.47,44.02,2,0
+536, Event 12  Men 100 Yard Backstroke,Preliminaries,"Burns, Brendan",SR,,,,,,,Indiana,44.65,44.28,3,0
+537, Event 12  Men 100 Yard Backstroke,Preliminaries,"Chaney, Adam",JR,,,,,,,Florida,44.17,44.28,3,0
+538, Event 12  Men 100 Yard Backstroke,Preliminaries,"Dolan, Jack",SR,,,,,,,Arizona St,44.78,44.78,5,0
+539, Event 12  Men 100 Yard Backstroke,Preliminaries,"Stoffle, Nate",SO,,,,,,,Auburn,44.89,44.93,6,0
+540, Event 12  Men 100 Yard Backstroke,Preliminaries,"McDonald, Owen",FR,,,,,,,Arizona St,45.00,44.97,7,0
+541, Event 12  Men 100 Yard Backstroke,Preliminaries,"Ungur, Andrei",SR,,,,,,,Utah,45.00,45.05,8,0
+542, Event 12  Men 100 Yard Backstroke,Preliminaries,"Dunham, Bradley",SR,,,,,,,Georgia,45.23,45.13,9,0
+543, Event 12  Men 100 Yard Backstroke,Preliminaries,"Van Renen, Ruard",FR,,,,,,,SIUC,44.89,45.17,10,0
+544, Event 12  Men 100 Yard Backstroke,Preliminaries,"Samuels, Brady",SO,,,,,,,Purdue,45.86,45.17,10,0
+545, Event 12  Men 100 Yard Backstroke,Preliminaries,"Izzo, Giovanni",5Y,,,,,,,NC State,45.41,45.20,12,0
+546, Event 12  Men 100 Yard Backstroke,Preliminaries,"Stoffle, Aidan",SR,,,,,,,Auburn,45.27,45.22,13,0
+547, Event 12  Men 100 Yard Backstroke,Preliminaries,"Seeliger, Bjorn",JR,,,,,,,California,45.23,45.33,14,0
+548, Event 12  Men 100 Yard Backstroke,Preliminaries,"Simons, Nick",FR,,,,,,,Tennessee,45.63,45.50,15,0
+549, Event 12  Men 100 Yard Backstroke,Preliminaries,"Janton, Tommy",FR,,,,,,,Notre Dame,45.61,45.54,16,0
+550, Event 12  Men 100 Yard Backstroke,Preliminaries,"MacAlister, Leon",SR,,,,,,,Stanford,45.58,45.54,17,0
+551, Event 12  Men 100 Yard Backstroke,Preliminaries,"Sequeira, Aaron",SO,,,,,,,Stanford,45.44,45.56,18,0
+552, Event 12  Men 100 Yard Backstroke,Preliminaries,"Menke, Matt",SR,,,,,,,Alabama,45.51,45.56,19,0
+553, Event 12  Men 100 Yard Backstroke,Preliminaries,"Alexy, Jack",SO,,,,,,,California,46.14,45.62,20,0
+554, Event 12  Men 100 Yard Backstroke,Preliminaries,"Brownstead, Matt",JR,,,,,,,Virginia,45.35,45.67,21,0
+555, Event 12  Men 100 Yard Backstroke,Preliminaries,"Lowe, Dalton",JR,,,,,,,Louisville,46.10,45.80,22,0
+556, Event 12  Men 100 Yard Backstroke,Preliminaries,"Jekel, Wes",SR,,,,,,,Wisconsin,45.70,45.87,23,0
+557, Event 12  Men 100 Yard Backstroke,Preliminaries,"Davis, Wyatt",JR,,,,,,,Michigan,45.20,45.87,23,0
+558, Event 12  Men 100 Yard Backstroke,Preliminaries,"Secchi, Clement",5Y,,,,,,,Missouri,45.37,45.93,25,0
+559, Event 12  Men 100 Yard Backstroke,Preliminaries,"Mefford, Colby",SR,,,,,,,California,47.32,45.94,26,0
+560, Event 12  Men 100 Yard Backstroke,Preliminaries,"Gogulski, Ethan",SR,,,,,,,Texas A&M,45.64,45.98,27,0
+561, Event 12  Men 100 Yard Backstroke,Preliminaries,"Tapp, Hunter",SR,,,,,,,NC State,45.85,46.05,28,0
+562, Event 12  Men 100 Yard Backstroke,Preliminaries,"Radziszewski, Krzysztof",SO,,,,,,,Pittsburgh,45.49,46.08,29,0
+563, Event 12  Men 100 Yard Backstroke,Preliminaries,"Ng, Wesley",JR,,,,,,,Georgia,45.27,46.08,29,0
+564, Event 12  Men 100 Yard Backstroke,Preliminaries,"Laitarovsky, Michael",SO,,,,,,,South Carolina,45.27,46.09,31,0
+565, Event 12  Men 100 Yard Backstroke,Preliminaries,"Aikins, Jack",SO,,,,,,,Virginia,45.68,46.21,32,0
+566, Event 12  Men 100 Yard Backstroke,Preliminaries,"Kammann, Bjoern",SO,,,,,,,Tennessee,46.18,46.42,33,0
+567, Event 12  Men 100 Yard Backstroke,Preliminaries,"Goraj, Marcin",JR,,,,,,,Pittsburgh,46.91,46.50,34,0
+568, Event 12  Men 100 Yard Backstroke,Preliminaries,"Somerset, Sebastian",SR,,,,,,,California,46.32,46.59,35,0
+569, Event 12  Men 100 Yard Backstroke,Preliminaries,"Fabiani, Remi",SO,,,,,,,Cal Baptist,47.14,46.61,36,0
+570, Event 12  Men 100 Yard Backstroke,Preliminaries,"O'Connor, Christopher",JR,,,,,,,Texas,46.31,46.62,37,0
+571, Event 12  Men 100 Yard Backstroke,Preliminaries,"Lierz, Harrison",JR,,,,,,,Tennessee,45.70,46.63,38,0
+572, Event 12  Men 100 Yard Backstroke,Preliminaries,"Pavlidi, Arijus",SO,,,,,,,Florida St,46.44,46.91,39,0
+573, Event 12  Men 100 Yard Backstroke,Preliminaries,"Saka, Berke",SO,,,,,,,Georgia Tech,45.60,47.09,40,0
+574, Event 12  Men 100 Yard Backstroke,Preliminaries,"Norton, Mitchell",SO,,,,,,,Georgia,46.35,47.17,41,0
+575, Event 12  Men 100 Yard Backstroke,Preliminaries,"Zuchowski, Josh",FR,,,,,,,Stanford,46.41,47.32,42,0
+576, Event 12  Men 100 Yard Backstroke,Preliminaries,"Makinen, Kalle",FR,,,,,,,Auburn,46.57,DFS,---,0
+577, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Chaney, Adam",JR,"Hillis, Dillon",5Y,"Liendo, Josh",FR,"McDuff, Macguire",SO,Florida,2:59.48,2:58.32,1,40
+578, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Burns, Brendan",SR,"Matheny, Josh",SO,"Frankel, Tomer",JR,"Miroslaw, Rafael",SO,Indiana,3:01.53,2:59.09,2,34
+579, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Dolan, Jack",SR,"Marchand, Leon",SO,"McCusker, Max",5Y,"Kulow, Jonny",FR,Arizona St,3:01.39,2:59.18,3,32
+580, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Stokowski, Kacper",SR,"Hunter, Mason",5Y,"Hayes, Aiden",SO,"Miller, Luke",JR,NC State,3:01.10,3:00.22,4,30
+581, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Lasco, Destin",JR,"Whitley, Reece",5Y,"Jett, Gabriel",SO,"Seeliger, Bjorn",JR,California,3:01.80,3:00.38,5,28
+582, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Simons, Nick",FR,"Epitropov, Lyubomir",5Y,"Crooks, Jordan",SO,"Santos, Guilherme",FR,Tennessee,3:02.51,3:02.05,6,26
+583, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Webb, Forest",SR,"Coll Marti, Carles",JR,"Ramadan, Youssef",JR,"Dominguez Calonge, Luis",SO,Virginia Tech,3:03.40,3:02.53,7,24
+584, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Foster, Carson",JR,"Corbeau, Caspar",SR,"Crane, Sterling",SR,"Hobson, Luke",SO,Texas,3:04.57,3:03.00,8,22
+585, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Dahlgren, Jack",5Y,"Patton, Ben",SR,"Secchi, Clement",5Y,"Bochenski, Grant",SO,Missouri,3:03.14,3:03.26,9,18
+586, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Brownstead, Matt",JR,"Nichols, Noah",JR,"Connery, Tim",SO,"Aikins, Jack",SO,Virginia,3:03.29,3:03.50,10,14
+587, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"MacAlister, Leon",SR,"Polonsky, Ron",SO,"Minakov, Andrei",JR,"Maurer, Luke",JR,Stanford,3:02.71,3:03.61,11,12
+588, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Stoffle, Nate",SO,"Mikuta, Reid",JR,"Stoffle, Aidan",SR,"Makinen, Kalle",FR,Auburn,3:03.03,3:03.76,12,10
+589, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Gogulski, Ethan",SR,"Puente Bustamante, Andres",SR,"Foote, Connor",FR,"Bratanov, Koko",SR,Texas A&M,3:04.08,3:04.31,13,8
+590, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Davis, Wyatt",JR,"Fitzpatrick, Brendan",SO,"Cohen Groumi, Gal",SO,"Szabados, Bence",JR,Michigan,3:04.79,3:05.17,14,6
+591, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Jekel, Wes",SR,"Myhre, Will",SR,"Bensch, Constantin",SR,"Torepe-Ormsby, Taiko",FR,Wisconsin,3:06.25,3:05.70,15,4
+592, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Radziszewski, Krzysztof",SO,"Van Der Laan, Cooper",SR,"Goraj, Marcin",JR,"Toledo Sanchez, Dominic",SR,Pittsburgh,3:06.70,3:05.72,16,2
+593, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Grant, Will",JR,"Simpson, Jared",SR,"Gures, Umitcan",SR,"Holmquist, Marcus",JR,Harvard,3:05.51,3:05.77,17,0
+594, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Menke, Matt",SR,"Maas, Derek",SR,"Miceli, Mateo",SO,"Alves, Kaique",SO,Alabama,3:05.34,3:06.05,18,0
+595, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Quach, Alex",SO,"Helmuth, Karl",SO,"Ward, James",SR,"Gaziev, Ruslan",JR,Ohio St,3:05.01,3:09.25,19,0
+596, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Dunham, Bradley",SR,"Pitshugin, Kris",FR,"Ng, Wesley",JR,"Downing, Dillon",SR,Georgia,3:06.72,DQ,---,0
+597, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Crush, Charlie",FR,"Petrashov, Denis",SR,"Lowe, Dalton",JR,"Eastman, Michael",5Y,Louisville,3:03.37,DQ,---,0
+598, Event 14  Men 400 Yard Medley Relay,Timed Final Relay,"Janton, Tommy",FR,Sean,JR,Cason,SR,Thacher,SR,Notre Dame,3:06.82,DFS,---,0
+599, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Gallant, Will",JR,,,,,,,NC State,14:34.82,14:28.94,1,20
+600, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Dant, Ross",SR,,,,,,,NC State,14:44.87,14:30.32,2,17
+601, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Magahey, Jake",JR,,,,,,,Georgia,14:38.45,14:33.82,3,16
+602, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Johnston, David",JR,,,,,,,Texas,14:37.30,14:35.51,4,15
+603, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Hoagland, Jack",SR,,,,,,,Notre Dame,14:48.82,14:38.64,5,14
+604, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Sandidge, Levi",FR,,,,,,,Kentucky,14:31.47,14:40.05,6,13
+605, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Clark, Charlie",JR,,,,,,,Ohio St,14:41.75,14:41.43,7,12
+606, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Sarkany, Zalan",FR,,,,,,,Arizona St,14:41.65,14:42.80,8,11
+607, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Henveaux, Lucas",5Y,,,,,,,California,14:48.84,14:44.14,9,9
+608, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Mestre, Alfonso",SR,,,,,,,Florida,14:52.88,14:44.50,10,7
+609, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Lloyd, Owen",JR,,,,,,,NC State,14:50.21,14:46.16,11,6
+610, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Watson, Tyler",SR,,,,,,,Florida,14:38.50,14:46.27,12,5
+611, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Enyeart, Alec",FR,,,,,,,Texas,14:43.39,14:47.13,13,4
+612, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Matheson, Daniel",SO,,,,,,,Arizona St,14:48.52,14:48.21,14,3
+613, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Johansson, Victor",5Y,,,,,,,Alabama,14:39.63,14:48.42,15,2
+614, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Linscheer, Gio",FR,,,,,,,Florida,14:53.65,14:48.63,16,1
+615, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Mathias, Mason",SO,,,,,,,Auburn,14:42.99,14:48.92,17,0
+616, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Plage, James",JR,,,,,,,NC State,14:55.45,14:49.02,18,0
+617, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Brown, Eric",FR,,,,,,,Florida,14:44.06,14:49.52,19,0
+618, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Kilavuz, Mert",SO,,,,,,,Georgia Tech,14:41.50,14:51.01,20,0
+619, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Nagy, Chris",JR,,,,,,,Minnesota,14:52.62,14:52.43,21,0
+620, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Mitchell, Jake",JR,,,,,,,Florida,14:46.91,14:52.82,22,0
+621, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Soloveychik, Bar",SO,,,,,,,Minnesota,14:50.93,14:54.37,23,0
+622, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Caruso, Nick",SO,,,,,,,Kentucky,14:52.13,14:55.22,24,0
+623, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Yanchev, Yordan",JR,,,,,,,Florida St,15:08.13,14:56.18,25,0
+624, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Zettle, Alex",5Y,,,,,,,Texas,14:57.98,14:56.36,26,0
+625, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Machado, Gabe",SO,,,,,,,Stanford,14:50.02,14:57.24,27,0
+626, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Edmund, Mason",FR,,,,,,,Ohio St,14:53.54,14:57.58,28,0
+627, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Davis, Grant",SO,,,,,,,Auburn,14:51.37,15:00.21,29,0
+628, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Lindholm, Oskar",SO,,,,,,,Florida,14:52.71,15:02.26,30,0
+629, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Little, Jack",SR,,,,,,,Tennessee,14:50.23,15:03.11,31,0
+630, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Bonson, Michael",JR,,,,,,,Auburn,14:52.76,15:06.81,32,0
+631, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Hill, Julian",SR,,,,,,,Arizona St,14:57.11,15:08.91,33,0
+632, Event 15  Men 1650 Yard Freestyle,Timed Final Individual,"Millard, Noah",SO,,,,,,,Yale,14:47.51,15:10.33,34,0
+633, Event 16  Men 200 Yard Backstroke,Championship Final,"Lasco, Destin",JR,,,,,,,California,1:36.68,1:35.87,1,20
+634, Event 16  Men 200 Yard Backstroke,Championship Final,"Gonzalez, Hugo",5Y,,,,,,,California,1:37.74,1:36.72,2,17
+635, Event 16  Men 200 Yard Backstroke,Championship Final,"Kos, Hubert",FR,,,,,,,Arizona St,1:38.25,1:37.96,3,16
+636, Event 16  Men 200 Yard Backstroke,Championship Final,"Grum, Ian",SR,,,,,,,Georgia,1:38.39,1:38.47,4,15
+637, Event 16  Men 200 Yard Backstroke,Championship Final,"McDonald, Owen",FR,,,,,,,Arizona St,1:39.54,1:39.34,5,14
+638, Event 16  Men 200 Yard Backstroke,Championship Final,"Stokowski, Kacper",SR,,,,,,,NC State,1:39.27,1:39.35,6,13
+639, Event 16  Men 200 Yard Backstroke,Championship Final,"Dahlgren, Jack",5Y,,,,,,,Missouri,1:38.62,1:39.45,7,12
+640, Event 16  Men 200 Yard Backstroke,Championship Final,"Foster, Carson",JR,,,,,,,Texas,1:38.37,1:39.48,8,11
+641, Event 16  Men 200 Yard Backstroke,Consolation Final,"Stoffle, Aidan",SR,,,,,,,Auburn,1:40.07,1:39.30,9,9
+642, Event 16  Men 200 Yard Backstroke,Consolation Final,"Janton, Tommy",FR,,,,,,,Notre Dame,1:39.83,1:39.45,10,7
+643, Event 16  Men 200 Yard Backstroke,Consolation Final,"Dunham, Bradley",SR,,,,,,,Georgia,1:39.60,1:39.86,11,6
+644, Event 16  Men 200 Yard Backstroke,Consolation Final,"Mefford, Colby",SR,,,,,,,California,1:39.74,1:39.88,12,5
+645, Event 16  Men 200 Yard Backstroke,Consolation Final,"Van Renen, Ruard",FR,,,,,,,SIUC,1:39.73,1:40.22,13,4
+646, Event 16  Men 200 Yard Backstroke,Consolation Final,"Sequeira, Aaron",SO,,,,,,,Stanford,1:39.91,1:40.66,14,3
+647, Event 16  Men 200 Yard Backstroke,Consolation Final,"Simons, Nick",FR,,,,,,,Tennessee,1:40.75,1:40.78,15,2
+648, Event 16  Men 200 Yard Backstroke,Consolation Final,"Somerset, Sebastian",SR,,,,,,,California,1:40.04,1:41.91,16,1
+649, Event 16  Men 200 Yard Backstroke,Preliminaries,"Lasco, Destin",JR,,,,,,,California,1:36.94,1:36.68,1,0
+650, Event 16  Men 200 Yard Backstroke,Preliminaries,"Gonzalez, Hugo",5Y,,,,,,,California,1:37.19,1:37.74,2,0
+651, Event 16  Men 200 Yard Backstroke,Preliminaries,"Kos, Hubert",FR,,,,,,,Arizona St,1:39.21,1:38.25,3,0
+652, Event 16  Men 200 Yard Backstroke,Preliminaries,"Foster, Carson",JR,,,,,,,Texas,1:38.87,1:38.37,4,0
+653, Event 16  Men 200 Yard Backstroke,Preliminaries,"Grum, Ian",SR,,,,,,,Georgia,1:38.84,1:38.39,5,0
+654, Event 16  Men 200 Yard Backstroke,Preliminaries,"Dahlgren, Jack",5Y,,,,,,,Missouri,1:39.80,1:38.62,6,0
+655, Event 16  Men 200 Yard Backstroke,Preliminaries,"Stokowski, Kacper",SR,,,,,,,NC State,1:39.94,1:39.27,7,0
+656, Event 16  Men 200 Yard Backstroke,Preliminaries,"McDonald, Owen",FR,,,,,,,Arizona St,1:39.01,1:39.54,8,0
+657, Event 16  Men 200 Yard Backstroke,Preliminaries,"Dunham, Bradley",SR,,,,,,,Georgia,1:38.90,1:39.60,9,0
+658, Event 16  Men 200 Yard Backstroke,Preliminaries,"Van Renen, Ruard",FR,,,,,,,SIUC,1:40.64,1:39.73,10,0
+659, Event 16  Men 200 Yard Backstroke,Preliminaries,"Mefford, Colby",SR,,,,,,,California,1:38.83,1:39.74,11,0
+660, Event 16  Men 200 Yard Backstroke,Preliminaries,"Janton, Tommy",FR,,,,,,,Notre Dame,1:40.30,1:39.83,12,0
+661, Event 16  Men 200 Yard Backstroke,Preliminaries,"Sequeira, Aaron",SO,,,,,,,Stanford,1:39.94,1:39.91,13,0
+662, Event 16  Men 200 Yard Backstroke,Preliminaries,"Somerset, Sebastian",SR,,,,,,,California,1:40.44,1:40.04,14,0
+663, Event 16  Men 200 Yard Backstroke,Preliminaries,"Stoffle, Aidan",SR,,,,,,,Auburn,1:39.64,1:40.07,15,0
+664, Event 16  Men 200 Yard Backstroke,Preliminaries,"Simons, Nick",FR,,,,,,,Tennessee,1:40.05,1:40.75,16,0
+665, Event 16  Men 200 Yard Backstroke,Preliminaries,"Saka, Berke",SO,,,,,,,Georgia Tech,1:40.02,1:40.86,17,0
+666, Event 16  Men 200 Yard Backstroke,Preliminaries,"O'Connor, Christopher",JR,,,,,,,Texas,1:40.21,1:40.98,18,0
+667, Event 16  Men 200 Yard Backstroke,Preliminaries,"Tapp, Hunter",SR,,,,,,,NC State,1:40.44,1:41.16,19,0
+668, Event 16  Men 200 Yard Backstroke,Preliminaries,"Gogulski, Ethan",SR,,,,,,,Texas A&M,1:39.98,1:41.16,19,0
+669, Event 16  Men 200 Yard Backstroke,Preliminaries,"MacAlister, Leon",SR,,,,,,,Stanford,1:40.13,1:41.27,21,0
+670, Event 16  Men 200 Yard Backstroke,Preliminaries,"Garcia, Nicolas",SO,,,,,,,Virginia Tech,1:39.49,1:41.30,22,0
+671, Event 16  Men 200 Yard Backstroke,Preliminaries,"Goraj, Marcin",JR,,,,,,,Pittsburgh,1:40.34,1:41.42,23,0
+672, Event 16  Men 200 Yard Backstroke,Preliminaries,"Daigle, Jared",5Y,,,,,,,Michigan,1:42.55,1:41.44,24,0
+673, Event 16  Men 200 Yard Backstroke,Preliminaries,"Aikins, Jack",SO,,,,,,,Virginia,1:40.11,1:41.45,25,0
+674, Event 16  Men 200 Yard Backstroke,Preliminaries,"Stoffle, Nate",SO,,,,,,,Auburn,1:40.03,1:41.54,26,0
+675, Event 16  Men 200 Yard Backstroke,Preliminaries,"Zuchowski, Josh",FR,,,,,,,Stanford,1:40.47,1:41.81,27,0
+676, Event 16  Men 200 Yard Backstroke,Preliminaries,"Norton, Mitchell",SO,,,,,,,Georgia,1:40.62,1:41.88,28,0
+677, Event 16  Men 200 Yard Backstroke,Preliminaries,"Lierz, Harrison",JR,,,,,,,Tennessee,1:41.88,1:41.90,29,0
+678, Event 16  Men 200 Yard Backstroke,Preliminaries,"Ben-Shitrit, Eitan",FR,,,,,,,Michigan,1:42.88,1:42.12,30,0
+679, Event 16  Men 200 Yard Backstroke,Preliminaries,"Nelson, Baylor",FR,,,,,,,Texas A&M,1:39.79,1:42.28,31,0
+680, Event 16  Men 200 Yard Backstroke,Preliminaries,"Newmark, Jake",JR,,,,,,,Wisconsin,1:40.02,1:42.49,32,0
+681, Event 16  Men 200 Yard Backstroke,Preliminaries,"Pavlidi, Arijus",SO,,,,,,,Florida St,1:40.37,1:42.70,33,0
+682, Event 16  Men 200 Yard Backstroke,Preliminaries,"Davis, Wyatt",JR,,,,,,,Michigan,1:40.67,1:43.18,34,0
+683, Event 16  Men 200 Yard Backstroke,Preliminaries,"Jekel, Wes",SR,,,,,,,Wisconsin,1:41.09,1:43.41,35,0
+684, Event 16  Men 200 Yard Backstroke,Preliminaries,"Menke, Matt",SR,,,,,,,Alabama,1:41.82,1:43.47,36,0
+685, Event 16  Men 200 Yard Backstroke,Preliminaries,"Ng, Wesley",JR,,,,,,,Georgia,1:44.32,1:43.67,37,0
+686, Event 16  Men 200 Yard Backstroke,Preliminaries,"Ungur, Andrei",SR,,,,,,,Utah,1:41.03,1:43.89,38,0
+687, Event 16  Men 200 Yard Backstroke,Preliminaries,"Driggers, Landon",SO,,,,,,,Tennessee,1:43.08,1:45.34,39,0
+688, Event 17  Men 100 Yard Freestyle,Championship Final,"Liendo, Josh",FR,,,,,,,Florida,41.25,40.28,1,20
+689, Event 17  Men 100 Yard Freestyle,Championship Final,"Alexy, Jack",SO,,,,,,,California,40.88,40.92,2,17
+690, Event 17  Men 100 Yard Freestyle,Championship Final,"Seeliger, Bjorn",JR,,,,,,,California,41.17,40.93,3,16
+691, Event 17  Men 100 Yard Freestyle,Championship Final,"Gaziev, Ruslan",JR,,,,,,,Ohio St,41.34,40.98,4,15
+692, Event 17  Men 100 Yard Freestyle,Championship Final,"Crooks, Jordan",SO,,,,,,,Tennessee,40.92,41.03,5,13.50
+693, Event 17  Men 100 Yard Freestyle,Championship Final,"Curry, Brooks",SR,,,,,,,LSU,41.17,41.03,5,13.50
+694, Event 17  Men 100 Yard Freestyle,Championship Final,"Mathias, Van",5Y,,,,,,,Indiana,41.33,41.39,7,12
+695, Event 17  Men 100 Yard Freestyle,Championship Final,"Ramadan, Youssef",JR,,,,,,,Virginia Tech,41.15,41.61,8,11
+696, Event 17  Men 100 Yard Freestyle,Consolation Final,"Santos, Guilherme",FR,,,,,,,Tennessee,41.51,41.54,9,9
+697, Event 17  Men 100 Yard Freestyle,Consolation Final,"Guiliano, Chris",SO,,,,,,,Notre Dame,41.48,41.64,10,7
+698, Event 17  Men 100 Yard Freestyle,Consolation Final,"Kulow, Jonny",FR,,,,,,,Arizona St,41.86,41.66,11,6
+699, Event 17  Men 100 Yard Freestyle,Consolation Final,"House, Grant",5Y,,,,,,,Arizona St,41.83,41.90,12,5
+700, Event 17  Men 100 Yard Freestyle,Consolation Final,"Chaney, Adam",JR,,,,,,,Florida,41.75,41.93,13,4
+701, Event 17  Men 100 Yard Freestyle,Consolation Final,"McDuff, Macguire",SO,,,,,,,Florida,41.92,41.97,14,3
+702, Event 17  Men 100 Yard Freestyle,Consolation Final,"Krueger, Danny",5Y,,,,,,,Texas,41.95,42.22,15,2
+703, Event 17  Men 100 Yard Freestyle,Consolation Final,"Dolan, Jack",SR,,,,,,,Arizona St,41.85,42.56,16,1
+704, Event 17  Men 100 Yard Freestyle,Preliminaries,"Alexy, Jack",SO,,,,,,,California,41.42,40.88,1,0
+705, Event 17  Men 100 Yard Freestyle,Preliminaries,"Crooks, Jordan",SO,,,,,,,Tennessee,41.17,40.92,2,0
+706, Event 17  Men 100 Yard Freestyle,Preliminaries,"Ramadan, Youssef",JR,,,,,,,Virginia Tech,41.33,41.15,3,0
+707, Event 17  Men 100 Yard Freestyle,Preliminaries,"Seeliger, Bjorn",JR,,,,,,,California,40.90,41.17,4,0
+708, Event 17  Men 100 Yard Freestyle,Preliminaries,"Curry, Brooks",SR,,,,,,,LSU,41.86,41.17,4,0
+709, Event 17  Men 100 Yard Freestyle,Preliminaries,"Liendo, Josh",FR,,,,,,,Florida,41.22,41.25,6,0
+710, Event 17  Men 100 Yard Freestyle,Preliminaries,"Mathias, Van",5Y,,,,,,,Indiana,41.58,41.33,7,0
+711, Event 17  Men 100 Yard Freestyle,Preliminaries,"Gaziev, Ruslan",JR,,,,,,,Ohio St,41.38,41.34,8,0
+712, Event 17  Men 100 Yard Freestyle,Preliminaries,"Guiliano, Chris",SO,,,,,,,Notre Dame,41.85,41.48,9,0
+713, Event 17  Men 100 Yard Freestyle,Preliminaries,"Santos, Guilherme",FR,,,,,,,Tennessee,41.43,41.51,10,0
+714, Event 17  Men 100 Yard Freestyle,Preliminaries,"Chaney, Adam",JR,,,,,,,Florida,42.26,41.75,11,0
+715, Event 17  Men 100 Yard Freestyle,Preliminaries,"House, Grant",5Y,,,,,,,Arizona St,41.69,41.83,12,0
+716, Event 17  Men 100 Yard Freestyle,Preliminaries,"Dolan, Jack",SR,,,,,,,Arizona St,41.84,41.85,13,0
+717, Event 17  Men 100 Yard Freestyle,Preliminaries,"Kulow, Jonny",FR,,,,,,,Arizona St,42.16,41.86,14,0
+718, Event 17  Men 100 Yard Freestyle,Preliminaries,"McDuff, Macguire",SO,,,,,,,Florida,41.59,41.92,15,0
+719, Event 17  Men 100 Yard Freestyle,Preliminaries,"Krueger, Danny",5Y,,,,,,,Texas,42.12,41.95,16,0
+720, Event 17  Men 100 Yard Freestyle,Preliminaries,"Hobson, Luke",SO,,,,,,,Texas,42.58,41.99,17,0
+721, Event 17  Men 100 Yard Freestyle,Preliminaries,"Piszczorowicz, Bartosz",SR,,,,,,,NC State,41.98,42.04,18,0
+722, Event 17  Men 100 Yard Freestyle,Preliminaries,"Jensen, Matthew",JR,,,,,,,California,42.01,42.07,19,0
+723, Event 17  Men 100 Yard Freestyle,Preliminaries,"Sammon, Patrick",SO,,,,,,,Arizona St,41.98,42.12,20,0
+724, Event 17  Men 100 Yard Freestyle,Preliminaries,"Smith, Julian",SO,,,,,,,Florida,41.98,42.16,21,0
+725, Event 17  Men 100 Yard Freestyle,Preliminaries,"Eastman, Michael",5Y,,,,,,,Louisville,42.17,42.18,22,0
+726, Event 17  Men 100 Yard Freestyle,Preliminaries,"Samuels, Brady",SO,,,,,,,Purdue,41.99,42.22,23,0
+727, Event 17  Men 100 Yard Freestyle,Preliminaries,"Korstanje, Nyls",SR,,,,,,,NC State,42.67,42.23,24,0
+728, Event 17  Men 100 Yard Freestyle,Preliminaries,"Brownstead, Matt",JR,,,,,,,Virginia,41.72,42.24,25,0
+729, Event 17  Men 100 Yard Freestyle,Preliminaries,"Baganha, Victor",SO,,,,,,,Penn St,42.71,42.39,26,0
+730, Event 17  Men 100 Yard Freestyle,Preliminaries,"Henderson, Noah",SR,,,,,,,NC State,42.44,42.40,27,0
+731, Event 17  Men 100 Yard Freestyle,Preliminaries,"Elaraby, Abdelrahman",SR,,,,,,,Louisville,42.73,42.41,28,0
+732, Event 17  Men 100 Yard Freestyle,Preliminaries,"Berg, Max",JR,,,,,,,Kentucky,42.11,42.47,29,0
+733, Event 17  Men 100 Yard Freestyle,Preliminaries,"Varjasi, Peter",SR,,,,,,,Florida St,42.32,42.47,29,0
+734, Event 17  Men 100 Yard Freestyle,Preliminaries,"Maurer, Luke",JR,,,,,,,Stanford,42.27,42.50,31,0
+735, Event 17  Men 100 Yard Freestyle,Preliminaries,"Hawk, Dylan",JR,,,,,,,California,42.39,42.51,32,0
+736, Event 17  Men 100 Yard Freestyle,Preliminaries,"Miroslaw, Rafael",SO,,,,,,,Indiana,42.38,42.51,32,0
+737, Event 17  Men 100 Yard Freestyle,Preliminaries,"Minakov, Andrei",JR,,,,,,,Stanford,42.01,42.53,34,0
+738, Event 17  Men 100 Yard Freestyle,Preliminaries,"Larson, Peter",SR,,,,,,,Texas,42.54,42.55,35,0
+739, Event 17  Men 100 Yard Freestyle,Preliminaries,"Szabados, Bence",JR,,,,,,,Michigan,42.67,42.60,36,0
+740, Event 17  Men 100 Yard Freestyle,Preliminaries,"Dupont Cabrera, Andres",FR,,,,,,,Stanford,42.17,42.61,37,0
+741, Event 17  Men 100 Yard Freestyle,Preliminaries,"Dominguez Calonge, Luis",SO,,,,,,,Virginia Tech,42.70,42.63,38,0
+742, Event 17  Men 100 Yard Freestyle,Preliminaries,"Daleiden Ciuferri, Ralph",FR,,,,,,,Arizona,42.77,42.69,39,0
+743, Event 17  Men 100 Yard Freestyle,Preliminaries,"Downing, Dillon",SR,,,,,,,Georgia,42.39,42.71,40,0
+744, Event 17  Men 100 Yard Freestyle,Preliminaries,"Brooks, Guy",FR,,,,,,,Louisville,42.78,42.71,40,0
+745, Event 17  Men 100 Yard Freestyle,Preliminaries,"Fabiani, Remi",SO,,,,,,,Cal Baptist,42.21,42.86,42,0
+746, Event 17  Men 100 Yard Freestyle,Preliminaries,"Mestre, Alberto",5Y,,,,,,,Florida,42.92,42.87,43,0
+747, Event 17  Men 100 Yard Freestyle,Preliminaries,"Kammann, Bjoern",SO,,,,,,,Tennessee,43.19,42.88,44,0
+748, Event 17  Men 100 Yard Freestyle,Preliminaries,"Sherman, Nick",5Y,,,,,,,Purdue,43.29,42.94,45,0
+749, Event 17  Men 100 Yard Freestyle,Preliminaries,"Salls, Drew",FR,,,,,,,NC State,42.54,43.05,46,0
+750, Event 17  Men 100 Yard Freestyle,Preliminaries,"Gu, Rafael",FR,,,,,,,Stanford,42.83,43.08,47,0
+751, Event 17  Men 100 Yard Freestyle,Preliminaries,"Curtiss, David",SO,,,,,,,NC State,42.44,43.12,48,0
+752, Event 17  Men 100 Yard Freestyle,Preliminaries,"Bybee, Cody",5Y,,,,,,,Arizona St,43.04,43.14,49,0
+753, Event 17  Men 100 Yard Freestyle,Preliminaries,"McCusker, Max",5Y,,,,,,,Arizona St,42.03,43.16,50,0
+754, Event 17  Men 100 Yard Freestyle,Preliminaries,"Sartori, Murilo",SO,,,,,,,Louisville,43.02,43.16,50,0
+755, Event 17  Men 100 Yard Freestyle,Preliminaries,"Zhang, Wen",SR,,,,,,,Air Force,42.32,43.17,52,0
+756, Event 17  Men 100 Yard Freestyle,Preliminaries,"Brooks, Finn",SO,,,,,,,Indiana,43.07,43.34,53,0
+757, Event 17  Men 100 Yard Freestyle,Preliminaries,"Unlu, Baturalp",JR,,,,,,,Georgia Tech,42.57,43.75,54,0
+758, Event 17  Men 100 Yard Freestyle,Preliminaries,"Connery, Tim",SO,,,,,,,Virginia,42.50,44.32,55,0
+759, Event 17  Men 100 Yard Freestyle,Preliminaries,"Hawke, Charlie",SO,,,,,,,Alabama,42.35,DFS,---,0
+760, Event 17  Men 100 Yard Freestyle,Preliminaries,"Molla Yanes, Mario",SO,,,,,,,Virginia Tech,42.78,DFS,---,0
+761, Event 17  Men 100 Yard Freestyle,Preliminaries,"Tirheimer, Logan",JR,,,,,,,Auburn,42.59,DFS,---,0
+762, Event 17  Men 100 Yard Freestyle,Preliminaries,"Quach, Alex",SO,,,,,,,Ohio St,42.97,DFS,---,0
+763, Event 17  Men 100 Yard Freestyle,Preliminaries,"Hils, Zach",SR,,,,,,,Georgia,42.70,DFS,---,0
+764, Event 17  Men 100 Yard Freestyle,Preliminaries,"Dramm, Louis",FR,,,,,,,UNC,43.31,DFS,---,0
+765, Event 17  Men 100 Yard Freestyle,Preliminaries,"Makinen, Kalle",FR,,,,,,,Auburn,42.62,DFS,---,0
+766, Event 18  Men 200 Yard Breaststroke,Championship Final,"Marchand, Leon",SO,,,,,,,Arizona St,1:49.64,1:46.91,1,20
+767, Event 18  Men 200 Yard Breaststroke,Championship Final,"Corbeau, Caspar",SR,,,,,,,Texas,1:49.98,1:49.15,2,17
+768, Event 18  Men 200 Yard Breaststroke,Championship Final,"McHugh, Max",5Y,,,,,,,Minnesota,1:50.64,1:49.91,3,16
+769, Event 18  Men 200 Yard Breaststroke,Championship Final,"Matheny, Josh",SO,,,,,,,Indiana,1:51.24,1:50.12,4,15
+770, Event 18  Men 200 Yard Breaststroke,Championship Final,"Savickas, Aleksas",FR,,,,,,,Florida,1:50.98,1:50.48,5,14
+771, Event 18  Men 200 Yard Breaststroke,Championship Final,"Louser, Jason",SR,,,,,,,California,1:51.43,1:50.90,6,13
+772, Event 18  Men 200 Yard Breaststroke,Championship Final,"Coll Marti, Carles",JR,,,,,,,Virginia Tech,1:51.44,1:51.20,7,12
+773, Event 18  Men 200 Yard Breaststroke,Championship Final,"Puente Bustamante, Andres",SR,,,,,,,Texas A&M,1:50.86,1:51.66,8,11
+774, Event 18  Men 200 Yard Breaststroke,Consolation Final,"Petrashov, Denis",SR,,,,,,,Louisville,1:51.53,1:51.23,9,9
+775, Event 18  Men 200 Yard Breaststroke,Consolation Final,"Maas, Derek",SR,,,,,,,Alabama,1:51.96,1:51.53,10,7
+776, Event 18  Men 200 Yard Breaststroke,Consolation Final,"Schlicht, David",SO,,,,,,,Arizona St,1:51.93,1:51.81,11,6
+777, Event 18  Men 200 Yard Breaststroke,Consolation Final,"Foster, Jake",SR,,,,,,,Texas,1:52.26,1:51.85,12,5
+778, Event 18  Men 200 Yard Breaststroke,Consolation Final,"Epitropov, Lyubomir",5Y,,,,,,,Tennessee,1:52.15,1:52.01,13,4
+779, Event 18  Men 200 Yard Breaststroke,Consolation Final,"Hillis, Dillon",5Y,,,,,,,Florida,1:52.13,1:52.10,14,3
+780, Event 18  Men 200 Yard Breaststroke,Consolation Final,"Bustos, Arsenio",SO,,,,,,,NC State,1:52.21,1:52.29,15,2
+781, Event 18  Men 200 Yard Breaststroke,Consolation Final,"Whitley, Reece",5Y,,,,,,,California,1:51.74,1:52.93,16,1
+782, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Marchand, Leon",SO,,,,,,,Arizona St,1:47.67,1:49.64,1,0
+783, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Corbeau, Caspar",SR,,,,,,,Texas,1:51.92,1:49.98,2,0
+784, Event 18  Men 200 Yard Breaststroke,Preliminaries,"McHugh, Max",5Y,,,,,,,Minnesota,1:50.20,1:50.64,3,0
+785, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Puente Bustamante, Andres",SR,,,,,,,Texas A&M,1:51.14,1:50.86,4,0
+786, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Savickas, Aleksas",FR,,,,,,,Florida,1:50.08,1:50.98,5,0
+787, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Matheny, Josh",SO,,,,,,,Indiana,1:51.23,1:51.24,6,0
+788, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Louser, Jason",SR,,,,,,,California,1:50.99,1:51.43,7,0
+789, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Coll Marti, Carles",JR,,,,,,,Virginia Tech,1:50.90,1:51.44,8,0
+790, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Petrashov, Denis",SR,,,,,,,Louisville,1:50.51,1:51.53,9,0
+791, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Whitley, Reece",5Y,,,,,,,California,1:51.02,1:51.74,10,0
+792, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Schlicht, David",SO,,,,,,,Arizona St,1:52.15,1:51.93,11,0
+793, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Maas, Derek",SR,,,,,,,Alabama,1:52.69,1:51.96,12,0
+794, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Hillis, Dillon",5Y,,,,,,,Florida,1:51.14,1:52.13,13,0
+795, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Epitropov, Lyubomir",5Y,,,,,,,Tennessee,1:51.83,1:52.15,14,0
+796, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Bustos, Arsenio",SO,,,,,,,NC State,1:52.34,1:52.21,15,0
+797, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Foster, Jake",SR,,,,,,,Texas,1:52.08,1:52.26,16,0
+798, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Yep, Jassen",JR,,,,,,,Indiana,1:52.33,1:52.39,17,0
+799, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Al-Wir, Amro",JR,,,,,,,Florida,1:52.33,1:52.60,18,0
+800, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Pouch, AJ",SR,,,,,,,Virginia Tech,1:52.37,1:52.70,19,0
+801, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Demir, Demirkan",SO,,,,,,,Columbia,1:52.94,1:52.72,20,0
+802, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Reich, Maxwell",JR,,,,,,,Indiana,1:52.35,1:53.18,21,0
+803, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Vines, Braden",5Y,,,,,,,Texas,1:53.48,1:53.38,22,0
+804, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Patton, Ben",SR,,,,,,,Missouri,1:53.35,1:53.51,23,0
+805, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Myburgh, Keith",5Y,,,,,,,Virginia Tech,1:53.65,1:53.56,24,0
+806, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Mikuta, Reid",JR,,,,,,,Auburn,1:52.80,1:53.58,25,0
+807, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Kelly, Jack",SO,,,,,,,Brown,1:52.70,1:53.60,26,0
+808, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Bell, Liam",SR,,,,,,,California,1:56.89,1:53.76,27,0
+809, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Nichols, Noah",JR,,,,,,,Virginia,1:51.97,1:53.81,28,0
+810, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Van Der Laan, Cooper",SR,,,,,,,Pittsburgh,1:53.05,1:53.82,29,0
+811, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Goodwin, Will",SR,,,,,,,Missouri,1:52.29,1:53.91,30,0
+812, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Sanchez, Alex",JR,,,,,,,Texas A&M,1:51.09,1:53.91,30,0
+813, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Barr, Luke",SO,,,,,,,Indiana,1:54.37,1:54.28,32,0
+814, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Kelly, Logan",SO,,,,,,,IUPUI,1:52.86,1:54.52,33,0
+815, Event 18  Men 200 Yard Breaststroke,Preliminaries,"O'Grady, Chris",SO,,,,,,,Southern California,1:52.77,1:54.58,34,0
+816, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Horner, Jaek",SR,,,,,,,Utah,1:53.85,1:55.00,35,0
+817, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Polonsky, Ron",SO,,,,,,,Stanford,1:53.53,1:55.26,36,0
+818, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Berlitz, Danny",JR,,,,,,,West Virginia,1:56.76,1:55.70,37,0
+819, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Soderlund, Jacob",SO,,,,,,,California,1:54.45,1:55.73,38,0
+820, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Bethel, Henry",SO,,,,,,,Auburn,1:55.73,1:55.79,39,0
+821, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Rathle, Jacques",SO,,,,,,,Auburn,1:55.76,1:56.04,40,0
+822, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Chan, Will",5Y,,,,,,,Texas,1:56.44,1:56.17,41,0
+823, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Dillard, Jarel",5Y,,,,,,,Tennessee,1:52.91,1:56.20,42,0
+824, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Feehery, Colin",SR,,,,,,,SMU,1:52.06,1:56.23,43,0
+825, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Crisci, Flynn",SR,,,,,,,Pittsburgh,1:54.50,1:57.55,44,0
+826, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Myhre, Will",SR,,,,,,,Wisconsin,1:56.85,DQ,---,0
+827, Event 18  Men 200 Yard Breaststroke,Preliminaries,"Hunter, Mason",5Y,,,,,,,NC State,1:54.59,DFS,---,0
+828, Event 19  Men 200 Yard Butterfly,Championship Final,"Hayes, Aiden",SO,,,,,,,NC State,1:40.56,1:38.79,1,20
+829, Event 19  Men 200 Yard Butterfly,Championship Final,"Burns, Brendan",SR,,,,,,,Indiana,1:40.51,1:38.97,2,17
+830, Event 19  Men 200 Yard Butterfly,Championship Final,"Jett, Gabriel",SO,,,,,,,California,1:39.71,1:39.40,3,16
+831, Event 19  Men 200 Yard Butterfly,Championship Final,"Rose, Dare",JR,,,,,,,California,1:40.00,1:39.89,4,15
+832, Event 19  Men 200 Yard Butterfly,Championship Final,"Frankel, Tomer",JR,,,,,,,Indiana,1:40.94,1:40.34,5,14
+833, Event 19  Men 200 Yard Butterfly,Championship Final,"Bowers, Noah",SR,,,,,,,NC State,1:40.82,1:40.85,6,13
+834, Event 19  Men 200 Yard Butterfly,Championship Final,"Colson, Alexander",SR,,,,,,,Arizona St,1:40.43,1:41.38,7,12
+835, Event 19  Men 200 Yard Butterfly,Championship Final,"Cohen Groumi, Gal",SO,,,,,,,Michigan,1:41.39,1:42.37,8,11
+836, Event 19  Men 200 Yard Butterfly,Consolation Final,"Khosla, Raunak",SR,,,,,,,Princeton,1:41.81,1:40.94,9,9
+837, Event 19  Men 200 Yard Butterfly,Consolation Final,"Gonzalez Pinero, Joaquin",SO,,,,,,,Florida,1:41.75,1:41.62,10,7
+838, Event 19  Men 200 Yard Butterfly,Consolation Final,"Miller, Luke",JR,,,,,,,NC State,1:41.85,1:42.12,11,6
+839, Event 19  Men 200 Yard Butterfly,Consolation Final,"Artmann, Sam",SR,,,,,,,Texas,1:41.86,1:42.32,12,5
+840, Event 19  Men 200 Yard Butterfly,Consolation Final,"McInerny, Evan",JR,,,,,,,Auburn,1:42.24,1:42.35,13,4
+841, Event 19  Men 200 Yard Butterfly,Consolation Final,"Fong, Josh",SR,,,,,,,Virginia,1:41.92,1:42.75,14,3
+842, Event 19  Men 200 Yard Butterfly,Consolation Final,"Gray, Andrew",SR,,,,,,,Arizona St,1:41.70,1:42.94,15,2
+843, Event 19  Men 200 Yard Butterfly,Consolation Final,"Espernberger, Martin",FR,,,,,,,Tennessee,1:41.39,1:43.21,16,1
+844, Event 19  Men 200 Yard Butterfly,Preliminaries,"Jett, Gabriel",SO,,,,,,,California,1:39.27,1:39.71,1,0
+845, Event 19  Men 200 Yard Butterfly,Preliminaries,"Rose, Dare",JR,,,,,,,California,1:41.01,1:40.00,2,0
+846, Event 19  Men 200 Yard Butterfly,Preliminaries,"Colson, Alexander",SR,,,,,,,Arizona St,1:39.55,1:40.43,3,0
+847, Event 19  Men 200 Yard Butterfly,Preliminaries,"Burns, Brendan",SR,,,,,,,Indiana,1:39.51,1:40.51,4,0
+848, Event 19  Men 200 Yard Butterfly,Preliminaries,"Hayes, Aiden",SO,,,,,,,NC State,1:40.21,1:40.56,5,0
+849, Event 19  Men 200 Yard Butterfly,Preliminaries,"Bowers, Noah",SR,,,,,,,NC State,1:41.14,1:40.82,6,0
+850, Event 19  Men 200 Yard Butterfly,Preliminaries,"Frankel, Tomer",JR,,,,,,,Indiana,1:40.97,1:40.94,7,0
+851, Event 19  Men 200 Yard Butterfly,Preliminaries,"Cohen Groumi, Gal",SO,,,,,,,Michigan,1:40.21,1:41.39,8,0
+852, Event 19  Men 200 Yard Butterfly,Preliminaries,"Espernberger, Martin",FR,,,,,,,Tennessee,1:41.91,1:41.39,9,0
+853, Event 19  Men 200 Yard Butterfly,Preliminaries,"Gray, Andrew",SR,,,,,,,Arizona St,1:41.20,1:41.70,10,0
+854, Event 19  Men 200 Yard Butterfly,Preliminaries,"Gonzalez Pinero, Joaquin",SO,,,,,,,Florida,1:41.37,1:41.75,11,0
+855, Event 19  Men 200 Yard Butterfly,Preliminaries,"Khosla, Raunak",SR,,,,,,,Princeton,1:41.72,1:41.81,12,0
+856, Event 19  Men 200 Yard Butterfly,Preliminaries,"Miller, Luke",JR,,,,,,,NC State,1:42.57,1:41.85,13,0
+857, Event 19  Men 200 Yard Butterfly,Preliminaries,"Artmann, Sam",SR,,,,,,,Texas,1:42.16,1:41.86,14,0
+858, Event 19  Men 200 Yard Butterfly,Preliminaries,"Fong, Josh",SR,,,,,,,Virginia,1:42.45,1:41.92,15,0
+859, Event 19  Men 200 Yard Butterfly,Preliminaries,"McInerny, Evan",JR,,,,,,,Auburn,1:42.22,1:42.24,16,0
+860, Event 19  Men 200 Yard Butterfly,Preliminaries,"Secchi, Clement",5Y,,,,,,,Missouri,1:41.07,1:42.25,17,0
+861, Event 19  Men 200 Yard Butterfly,Preliminaries,"Miller, Ben",SR,,,,,,,Northwestern,1:41.43,1:42.35,18,0
+862, Event 19  Men 200 Yard Butterfly,Preliminaries,"Gustafson, Chachi",SR,,,,,,,Ohio St,1:42.24,1:42.52,19,0
+863, Event 19  Men 200 Yard Butterfly,Preliminaries,"Fers Erzen, Anze",SR,,,,,,,Texas A&M,1:43.61,1:42.55,20,0
+864, Event 19  Men 200 Yard Butterfly,Preliminaries,"Crane, Sterling",SR,,,,,,,Texas,1:42.25,1:42.58,21,0
+865, Event 19  Men 200 Yard Butterfly,Preliminaries,"Lim, Nicholas",JR,,,,,,,Princeton,1:42.53,1:42.59,22,0
+866, Event 19  Men 200 Yard Butterfly,Preliminaries,"Laur, Mason",SO,,,,,,,Florida,1:42.77,1:42.62,23,0
+867, Event 19  Men 200 Yard Butterfly,Preliminaries,"Neverman, Kaiser",JR,,,,,,,Minnesota,1:42.56,1:42.93,24,0
+868, Event 19  Men 200 Yard Butterfly,Preliminaries,"Wilby, Mason",5Y,,,,,,,Kentucky,1:41.59,1:43.07,25,0
+869, Event 19  Men 200 Yard Butterfly,Preliminaries,"Gentry, Landon",FR,,,,,,,Virginia Tech,1:42.32,1:43.10,26,0
+870, Event 19  Men 200 Yard Butterfly,Preliminaries,"Torok, Dominik Mark",FR,,,,,,,Wisconsin,1:42.58,1:43.22,27,0
+871, Event 19  Men 200 Yard Butterfly,Preliminaries,"Schmidt, Danny",FR,,,,,,,Auburn,1:44.04,1:43.25,28,0
+872, Event 19  Men 200 Yard Butterfly,Preliminaries,"Abruzzo, Andrew",5Y,,,,,,,Georgia,1:41.82,1:43.32,29,0
+873, Event 19  Men 200 Yard Butterfly,Preliminaries,"Prolo, Brad",SR,,,,,,,Brigham Young,1:42.41,1:43.50,30,0
+874, Event 19  Men 200 Yard Butterfly,Preliminaries,"Mihm, Rick",JR,,,,,,,Stanford,1:44.30,1:43.81,31,0
+875, Event 19  Men 200 Yard Butterfly,Preliminaries,"Poelke, Boyd",JR,,,,,,,UNC,1:44.63,1:43.87,32,0
+876, Event 19  Men 200 Yard Butterfly,Preliminaries,"Carrozza, Coby",JR,,,,,,,Texas,1:45.15,1:44.10,33,0
+877, Event 19  Men 200 Yard Butterfly,Preliminaries,"Bried, Tommy",SO,,,,,,,Louisville,1:43.71,1:44.18,34,0
+878, Event 19  Men 200 Yard Butterfly,Preliminaries,"Zubik, Jan",FR,,,,,,,Missouri,1:42.57,1:44.26,35,0
+879, Event 19  Men 200 Yard Butterfly,Preliminaries,"Mahler, Adam",SR,,,,,,,Pittsburgh,1:42.54,1:44.35,36,0
+880, Event 19  Men 200 Yard Butterfly,Preliminaries,"Miceli, Mateo",SO,,,,,,,Alabama,1:42.02,1:44.54,37,0
+881, Event 19  Men 200 Yard Butterfly,Preliminaries,"Merani, Ryan",FR,,,,,,,Kentucky,1:42.91,1:44.82,38,0
+882, Event 19  Men 200 Yard Butterfly,Preliminaries,"Lee, Connor",JR,,,,,,,Yale,1:44.85,1:45.88,39,0
+883, Event 19  Men 200 Yard Butterfly,Preliminaries,"Forst, Preston",JR,,,,,,,Stanford,1:45.16,1:46.96,40,0
+884, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Liendo, Josh",FR,"Chaney, Adam",JR,"Smith, Julian",SO,"McDuff, Macguire",SO,Florida,2:46.42,2:44.07,1,40
+885, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Seeliger, Bjorn",JR,"Alexy, Jack",SO,"Jensen, Matthew",JR,"Lasco, Destin",JR,California,2:45.67,2:44.08,2,34
+886, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Kulow, Jonny",FR,"Marchand, Leon",SO,"House, Grant",5Y,"Dolan, Jack",SR,Arizona St,2:46.14,2:45.12,3,32
+887, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Henderson, Noah",SR,"Piszczorowicz, Bartosz",SR,"Korstanje, Nyls",SR,"Izzo, Giovanni",5Y,NC State,2:47.32,2:47.09,4,30
+888, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Krueger, Danny",5Y,"Hobson, Luke",SO,"Corbeau, Caspar",SR,"Larson, Peter",SR,Texas,2:49.15,2:47.15,5,28
+889, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Mathias, Van",5Y,"Frankel, Tomer",JR,"Wight, Gavin",JR,"Miroslaw, Rafael",SO,Indiana,2:48.11,2:47.17,6,26
+890, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Santos, Guilherme",FR,"Crooks, Jordan",SO,"Kammann, Bjoern",SO,"Tarasenko, Aleksey",5Y,Tennessee,2:46.25,2:47.19,7,24
+891, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Maurer, Luke",JR,"Minakov, Andrei",JR,"Polonsky, Ron",SO,"Dupont Cabrera, Andres",FR,Stanford,2:48.40,2:47.61,8,22
+892, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Tirheimer, Logan",JR,"Makinen, Kalle",FR,"Husband, Ryan",JR,"Stoffle, Aidan",SR,Auburn,2:50.02,2:48.23,9,18
+893, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Ramadan, Youssef",JR,"Dominguez Calonge, Luis",SO,"Coll Marti, Carles",JR,"Hayon, Will",FR,Virginia Tech,2:48.06,2:48.34,10,14
+894, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Eastman, Michael",5Y,"Brooks, Guy",FR,"Lowe, Dalton",JR,"Elaraby, Abdelrahman",SR,Louisville,2:48.94,2:48.93,11,12
+895, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Hawke, Charlie",SO,"Alves, Kaique",SO,"Korstanje, Tim",FR,"Menke, Matt",SR,Alabama,2:49.64,2:49.41,12,10
+896, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Brownstead, Matt",JR,"Aikins, Jack",SO,"Boyle, Connor",SO,"Lamb, August",SR,Virginia,2:49.15,2:49.53,13,8
+897, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Branzell, Reese",SO,"Hils, Zach",SR,"Dunham, Bradley",SR,"Downing, Dillon",SR,Georgia,2:49.06,2:49.65,14,6
+898, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Gaziev, Ruslan",JR,"Ward, James",SR,"McDonald, Mario",JR,"Baltes, Daniel",SO,Ohio St,2:49.88,2:49.94,15,4
+899, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Szabados, Bence",JR,"Peel, Cam",SR,"Acin, Nikola",5Y,"Davis, Wyatt",JR,Michigan,2:49.44,2:50.03,16,2
+900, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Dahlgren, Jack",5Y,"Bochenski, Grant",SO,"Patton, Ben",SR,"Secchi, Clement",5Y,Missouri,2:50.29,2:50.31,17,0
+901, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Guiliano, Chris",SO,"Wilburn, Cason",SR,"DeLong, Alec",SR,"Scannell, Thacher",SR,Notre Dame,2:50.14,2:50.61,18,0
+902, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Foote, Connor",FR,"Bratanov, Koko",SR,"Fuchs, Collin",JR,"Nelson, Baylor",FR,Texas A&M,2:50.20,2:50.67,19,0
+903, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Torepe-Ormsby, Taiko",FR,"Newmark, Jake",JR,"Benson, Andrew",JR,"Wiegand, Ben",SO,Wisconsin,2:51.47,2:50.95,20,0
+904, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Hussey, Patrick",JR,"Dramm, Louis",FR,"Rutberg, Noah",JR,"Sungaila, Tomas",5Y,UNC,2:50.94,2:51.63,21,0
+905, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Holmquist, Marcus",JR,"Grant, Will",JR,"Simpson, Jared",SR,"Linnihan, Ryan",SR,Harvard,2:51.23,2:52.68,22,0
+906, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Goncharov, Stepan",FR,"Toledo Sanchez, Dominic",SR,"Crisci, Flynn",SR,"Goraj, Marcin",JR,Pittsburgh,2:51.81,2:53.04,23,0
+907, Event 21  Men 400 Yard Freestyle Relay,Timed Final Relay,"Daleiden Ciuferri, Ralph",FR,"Palmer, Tommy",FR,"Perham, Ryan",JR,"Ercegovic, Marin",5Y,Arizona,2:49.90,DQ,---,0
+908, Event 110  Men 200 Yard Freestyle Swim-off,Swim-off,"Sammon, Patrick",SO,,,,,,,Arizona St,1:32.28,1:32.40,1,0
+909, Event 110  Men 200 Yard Freestyle Swim-off,Swim-off,"Miroslaw, Rafael",SO,,,,,,,Indiana,1:32.28,1:34.29,2,0
+910, Event 112  Men 100 Yard Backstroke Swim-off,Swim-off,"Janton, Tommy",FR,,,,,,,Notre Dame,45.54,45.12,1,0
+911, Event 112  Men 100 Yard Backstroke Swim-off,Swim-off,"MacAlister, Leon",SR,,,,,,,Stanford,45.54,45.59,2,0
+912, Event 119  Men 200 Yard Butterfly Swim-off,Swim-off,"Cohen Groumi, Gal",SO,,,,,,,Michigan,1:41.39,1:41.40,1,0
+913, Event 119  Men 200 Yard Butterfly Swim-off,Swim-off,"Espernberger, Martin",FR,,,,,,,Tennessee,1:41.39,1:41.58,2,0

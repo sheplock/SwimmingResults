@@ -1,0 +1,91 @@
+,Event,Category,Date,Team,Swimmer,Time
+0, Event 1  Men 200 Yard Medley Relay,NCAA,2023-03-22,NC,"K Stokowski, M Hunter, N Korstanje, D Curtiss",1900-01-01 00:01:20.670
+1, Event 1  Men 200 Yard Medley Relay,Meet,2023-03-22,NC,"K Stokowski, M Hunter, N Korstanje, D Curtiss",1900-01-01 00:01:20.670
+2, Event 1  Men 200 Yard Medley Relay,American,2018-03-23,California,"D Carr, C Hoppe, J Lynch, R Hoffer",1900-01-01 00:01:21.880
+3, Event 1  Men 200 Yard Medley Relay,U. S. Open,2023-03-22,NC,"K Stokowski, M Hunter, N Korstanje, D Curtiss",1900-01-01 00:01:20.670
+4, Event 1  Men 200 Yard Medley Relay,Pool,2023-03-22,NC,"K Stokowski, M Hunter, N Korstanje, D Curtiss",1900-01-01 00:01:20.670
+5, Event 2  Men 800 Yard Freestyle Relay,NCAA,2023-03-22,Texas,"L Hobson, C Carrozza, P Larson, C Foster",1900-01-01 00:06:03.420
+6, Event 2  Men 800 Yard Freestyle Relay,Meet,2023-03-22,Texas,"L Hobson, C Carrozza, P Larson, C Foster",1900-01-01 00:06:03.420
+7, Event 2  Men 800 Yard Freestyle Relay,American,2023-03-22,Texas,"L Hobson, C Carrozza, P Larson, C Foster",1900-01-01 00:06:03.420
+8, Event 2  Men 800 Yard Freestyle Relay,U. S. Open,2023-03-22,Texas,"L Hobson, C Carrozza, P Larson, C Foster",1900-01-01 00:06:03.420
+9, Event 2  Men 800 Yard Freestyle Relay,Pool,2023-03-22,Texas,"L Hobson, C Carrozza, P Larson, C Foster",1900-01-01 00:06:03.420
+10, Event 3  Men 500 Yard Freestyle,NCAA,2020-02-19,Florida,Kieran Smith,1900-01-01 00:04:06.320
+11, Event 3  Men 500 Yard Freestyle,Meet,2022-03-24,Georgia,Matthew Sates,1900-01-01 00:04:06.610
+12, Event 3  Men 500 Yard Freestyle,American,2020-02-19,Florida,Kieran Smith,1900-01-01 00:04:06.320
+13, Event 3  Men 500 Yard Freestyle,U. S. Open,2020-02-19,Florida,Kieran Smith,1900-01-01 00:04:06.320
+14, Event 3  Men 500 Yard Freestyle,Pool,2023-03-23,Texas,Luke Hobson,1900-01-01 00:04:07.370
+20, Event 4  Men 200 Yard IM,NCAA,2023-03-23,ASU,Leon Marchand,1900-01-01 00:01:36.340
+21, Event 4  Men 200 Yard IM,Meet,2023-03-23,ASU,Leon Marchand,1900-01-01 00:01:36.340
+22, Event 4  Men 200 Yard IM,American,2023-03-23,California,Destin Lasco,1900-01-01 00:01:38.100
+23, Event 4  Men 200 Yard IM,U. S. Open,2023-03-23,ASU,Leon Marchand,1900-01-01 00:01:36.340
+24, Event 4  Men 200 Yard IM,Pool,2023-03-23,ASU,Leon Marchand,1900-01-01 00:01:36.340
+30, Event 5  Men 50 Yard Freestyle,NCAA,2018-03-22,Florida,Caeleb Dressel,1900-01-01 00:00:17.630
+31, Event 5  Men 50 Yard Freestyle,Meet,2018-03-22,Florida,Caeleb Dressel,1900-01-01 00:00:17.630
+32, Event 5  Men 50 Yard Freestyle,American,2018-03-22,Florida,Caeleb Dressel,1900-01-01 00:00:17.630
+33, Event 5  Men 50 Yard Freestyle,U. S. Open,2018-03-22,Florida,Caeleb Dressel,1900-01-01 00:00:17.630
+34, Event 5  Men 50 Yard Freestyle,Pool,2018-03-22,Florida,Caeleb Dressel,1900-01-01 00:00:17.630
+40, Event 7  Men 200 Yard Freestyle Relay,NCAA,2023-03-23,Florida,"J Liendo, A Chaney, E Friese, M McDuff",1900-01-01 00:01:13.350
+41, Event 7  Men 200 Yard Freestyle Relay,Meet,2023-03-23,Florida,"J Liendo, A Chaney, E Friese, M McDuff",1900-01-01 00:01:13.350
+42, Event 7  Men 200 Yard Freestyle Relay,American,2022-02-16,Virginia,"M Brownstead, M King, C Boyle, A Lamb",1900-01-01 00:01:14.470
+43, Event 7  Men 200 Yard Freestyle Relay,U. S. Open,2023-03-23,Florida,"J Liendo, A Chaney, E Friese, M McDuff",1900-01-01 00:01:13.350
+44, Event 7  Men 200 Yard Freestyle Relay,Pool,2023-03-23,Florida,"J Liendo, A Chaney, E Friese, M McDuff",1900-01-01 00:01:13.350
+45, Event 8  Men 400 Yard IM,NCAA,2023-03-24,ASU,Leon Marchand,1900-01-01 00:03:28.820
+46, Event 8  Men 400 Yard IM,Meet,2023-03-24,ASU,Leon Marchand,1900-01-01 00:03:28.820
+47, Event 8  Men 400 Yard IM,American,2017-03-24,Georgia,Chase Kalisz,1900-01-01 00:03:33.420
+48, Event 8  Men 400 Yard IM,U. S. Open,2023-03-24,ASU,Leon Marchand,1900-01-01 00:03:28.820
+49, Event 8  Men 400 Yard IM,Pool,2023-03-24,ASU,Leon Marchand,1900-01-01 00:03:28.820
+55, Event 9  Men 100 Yard Butterfly,NCAA,2018-03-23,Florida,Caeleb Dressel,1900-01-01 00:00:42.800
+56, Event 9  Men 100 Yard Butterfly,Meet,2018-03-23,Florida,Caeleb Dressel,1900-01-01 00:00:42.800
+57, Event 9  Men 100 Yard Butterfly,American,2018-03-23,Florida,Caeleb Dressel,1900-01-01 00:00:42.800
+58, Event 9  Men 100 Yard Butterfly,U. S. Open,2018-03-23,Florida,Caeleb Dressel,1900-01-01 00:00:42.800
+59, Event 9  Men 100 Yard Butterfly,Pool,2018-03-23,Florida,Caeleb Dressel,1900-01-01 00:00:42.800
+65, Event 10  Men 200 Yard Freestyle,NCAA,2019-03-27,Harvard,Dean Farris,1900-01-01 00:01:29.150
+66, Event 10  Men 200 Yard Freestyle,Meet,2019-03-27,Harvard,Dean Farris,1900-01-01 00:01:29.150
+67, Event 10  Men 200 Yard Freestyle,American,2019-03-27,Harvard,Dean Farris,1900-01-01 00:01:29.150
+68, Event 10  Men 200 Yard Freestyle,U. S. Open,2019-03-27,Harvard,Dean Farris,1900-01-01 00:01:29.150
+69, Event 10  Men 200 Yard Freestyle,Pool,2018-03-22,Texas,Townley Haas,1900-01-01 00:01:29.500
+75, Event 11  Men 100 Yard Breaststroke,NCAA,2018-03-23,Indiana,Ian Finnerty,1900-01-01 00:00:49.690
+76, Event 11  Men 100 Yard Breaststroke,Meet,2018-03-23,Indiana,Ian Finnerty,1900-01-01 00:00:49.690
+77, Event 11  Men 100 Yard Breaststroke,American,2018-03-23,Indiana,Ian Finnerty,1900-01-01 00:00:49.690
+78, Event 11  Men 100 Yard Breaststroke,U. S. Open,2018-03-23,Indiana,Ian Finnerty,1900-01-01 00:00:49.690
+79, Event 11  Men 100 Yard Breaststroke,Pool,2018-03-24,Indiana,Ian Finnerty,1900-01-01 00:00:49.690
+85, Event 12  Men 100 Yard Backstroke,NCAA,2022-03-25,Georgia,Luca Urlando,1900-01-01 00:00:43.350
+86, Event 12  Men 100 Yard Backstroke,Meet,2022-03-25,Georgia,Luca Urlando,1900-01-01 00:00:43.350
+87, Event 12  Men 100 Yard Backstroke,American,2022-03-25,Georgia,Luca Urlando,1900-01-01 00:00:43.350
+88, Event 12  Men 100 Yard Backstroke,U. S. Open,2022-03-25,Georgia,Luca Urlando,1900-01-01 00:00:43.350
+89, Event 12  Men 100 Yard Backstroke,Pool,2023-03-24,Indiana,Brendan Burns,1900-01-01 00:00:43.610
+95, Event 14  Men 400 Yard Medley Relay,NCAA,2023-03-24,Florida,"A Chaney, D Hillis, J Liendo, M McDuff",1900-01-01 00:02:58.320
+96, Event 14  Men 400 Yard Medley Relay,Meet,2023-03-24,Florida,"A Chaney, D Hillis, J Liendo, M McDuff",1900-01-01 00:02:58.320
+97, Event 14  Men 400 Yard Medley Relay,American,2017-03-23,California,"R Murphy, C Hoppe, M Josa, M Jensen",1900-01-01 00:03:01.510
+98, Event 14  Men 400 Yard Medley Relay,U. S. Open,2023-03-24,Florida,"A Chaney, D Hillis, J Liendo, M McDuff",1900-01-01 00:02:58.320
+99, Event 14  Men 400 Yard Medley Relay,Pool,2023-03-24,Florida,"A Chaney, D Hillis, J Liendo, M McDuff",1900-01-01 00:02:58.320
+100, Event 15  Men 1650 Yard Freestyle,NCAA,2020-02-22,Florida,Bobby Finke,1900-01-01 00:14:12.080
+101, Event 15  Men 1650 Yard Freestyle,Meet,2021-03-27,Florida,Bobby Finke,1900-01-01 00:14:12.520
+102, Event 15  Men 1650 Yard Freestyle,American,2020-02-22,Florida,Bobby Finke,1900-01-01 00:14:12.080
+103, Event 15  Men 1650 Yard Freestyle,U. S. Open,2020-02-22,Florida,Bobby Finke,1900-01-01 00:14:12.080
+104, Event 15  Men 1650 Yard Freestyle,Pool,2018-03-24,P3/24/2018,Anton Ipson,1900-01-01 00:14:24.430
+105, Event 16  Men 200 Yard Backstroke,NCAA,2016-03-26,California,Ryan Murphy,1900-01-01 00:01:35.730
+106, Event 16  Men 200 Yard Backstroke,Meet,2016-03-26,California,Ryan Murphy,1900-01-01 00:01:35.730
+107, Event 16  Men 200 Yard Backstroke,American,2016-03-26,California,Ryan Murphy,1900-01-01 00:01:35.730
+108, Event 16  Men 200 Yard Backstroke,U. S. Open,2016-03-26,California,Ryan Murphy,1900-01-01 00:01:35.730
+109, Event 16  Men 200 Yard Backstroke,Pool,2023-03-25,California,Destin Lasco,1900-01-01 00:01:35.870
+115, Event 17  Men 100 Yard Freestyle,NCAA,2018-03-24,Florida,Caeleb Dressel,1900-01-01 00:00:39.900
+116, Event 17  Men 100 Yard Freestyle,Meet,2018-03-24,Florida,Caeleb Dressel,1900-01-01 00:00:39.900
+117, Event 17  Men 100 Yard Freestyle,American,2018-03-24,Florida,Caeleb Dressel,1900-01-01 00:00:39.900
+118, Event 17  Men 100 Yard Freestyle,U. S. Open,2018-03-24,Florida,Caeleb Dressel,1900-01-01 00:00:39.900
+119, Event 17  Men 100 Yard Freestyle,Pool,2018-03-24,Florida,Caeleb Dressel,1900-01-01 00:00:39.900
+125, Event 18  Men 200 Yard Breaststroke,NCAA,2023-03-25,ASU,Leon Marchand,1900-01-01 00:01:46.910
+126, Event 18  Men 200 Yard Breaststroke,Meet,2023-03-25,ASU,Leon Marchand,1900-01-01 00:01:46.910
+127, Event 18  Men 200 Yard Breaststroke,American,2017-03-25,Texas,Will Licon,1900-01-01 00:01:47.910
+128, Event 18  Men 200 Yard Breaststroke,U. S. Open,2023-03-25,ASU,Leon Marchand,1900-01-01 00:01:46.910
+129, Event 18  Men 200 Yard Breaststroke,Pool,2023-03-25,ASU,Leon Marchand,1900-01-01 00:01:46.910
+135, Event 19  Men 200 Yard Butterfly,NCAA,2017-03-25,Texas,Jack Conger,1900-01-01 00:01:37.350
+136, Event 19  Men 200 Yard Butterfly,Meet,2017-03-25,Texas,Jack Conger,1900-01-01 00:01:37.350
+137, Event 19  Men 200 Yard Butterfly,American,2017-03-25,Texas,Jack Conger,1900-01-01 00:01:37.350
+138, Event 19  Men 200 Yard Butterfly,U. S. Open,2017-03-25,Texas,Jack Conger,1900-01-01 00:01:37.350
+139, Event 19  Men 200 Yard Butterfly,Pool,2018-03-24,P3/24/2018,Andrea Vazaios,1900-01-01 00:01:38.600
+145, Event 21  Men 400 Yard Freestyle Relay,NCAA,2023-03-25,Florida,"J Liendo, A Chaney, J Smith, M McDuff",1900-01-01 00:02:44.070
+146, Event 21  Men 400 Yard Freestyle Relay,Meet,2023-03-25,Florida,"J Liendo, A Chaney, J Smith, M McDuff",1900-01-01 00:02:44.070
+147, Event 21  Men 400 Yard Freestyle Relay,American,2018-03-24,NC,"R Held, J Ress, J Molacek, C Stewart",1900-01-01 00:02:44.310
+148, Event 21  Men 400 Yard Freestyle Relay,U. S. Open,2023-03-25,Florida,"J Liendo, A Chaney, J Smith, M McDuff",1900-01-01 00:02:44.070
+149, Event 21  Men 400 Yard Freestyle Relay,Pool,2023-03-25,Florida,"J Liendo, A Chaney, J Smith, M McDuff",1900-01-01 00:02:44.070
